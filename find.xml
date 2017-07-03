@@ -1,0 +1,41 @@
+<application>
+  <component name="FindSettings">
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="showResultsInSeparateView" value="true" />
+    <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
+    <option name="SEARCH_SCOPE" value="All Places" />
+    <recentFileMasks>
+      <mask>*(Test).java</mask>
+      <mask>*(?Test).java</mask>
+      <mask>*(?!Test).java</mask>
+      <mask>E(?!Test).java</mask>
+      <mask>Em(?!Test).java</mask>
+      <mask>Empl(?!Test).java</mask>
+      <mask>Emplo(?!Test).java</mask>
+      <mask>Employ(?!Test).java</mask>
+      <mask>Employer(?!Test).java</mask>
+      <mask>EmployerM(?!Test).java</mask>
+      <mask>EmployerMana(?!Test).java</mask>
+      <mask>EmployerManage(?!Test).java</mask>
+      <mask>EmployerManager(?!Test).java</mask>
+      <mask>EmployerManagerR(?!Test).java</mask>
+      <mask>EmployerManagerRe(?!Test).java</mask>
+      <mask>EmployerManagerResou(?!Test).java</mask>
+      <mask>EmployerManagerResour(?!Test).java</mask>
+      <mask>EmployerManagerResource(?!Test).java</mask>
+      <mask>*</mask>
+      <mask>*.h</mask>
+      <mask>*.xml</mask>
+      <mask>*.xm</mask>
+      <mask>*.x</mask>
+      <mask>*.py</mask>
+      <mask>*.p</mask>
+      <mask>*.</mask>
+      <mask>*.j</mask>
+      <mask>*.ja</mask>
+      <mask>*.jav</mask>
+      <mask>*.java</mask>
+    </recentFileMasks>
+  </component>
+</application>

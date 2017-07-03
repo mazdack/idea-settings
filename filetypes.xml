@@ -1,0 +1,33 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
+    <extensionMap>
+      <mapping ext="csv" type="HTML" />
+      <mapping pattern="chromeDriver" type="JAVA" />
+      <mapping ext="bsh" type="JAVA" />
+      <mapping pattern="sofea" type="PLAIN_TEXT" />
+      <mapping pattern="docs" type="PLAIN_TEXT" />
+      <mapping pattern="hosts_small" type="PLAIN_TEXT" />
+      <mapping pattern="encoding.py" type="PLAIN_TEXT" />
+      <mapping pattern="HH-64595" type="PLAIN_TEXT" />
+      <mapping pattern="mailer-worker" type="PLAIN_TEXT" />
+      <mapping pattern="LICENSE" type="PLAIN_TEXT" />
+      <mapping pattern="files_to_delete" type="PLAIN_TEXT" />
+      <mapping pattern=".pom.swp" type="PLAIN_TEXT" />
+      <mapping pattern="prof_small" type="PLAIN_TEXT" />
+      <mapping pattern="DockerFile" type="PLAIN_TEXT" />
+      <mapping pattern="datafile" type="PLAIN_TEXT" />
+      <mapping pattern="2a55314df6f713ebe726e958166bc5e63935ea5befd4bf12ed467d42199cacb8" type="PLAIN_TEXT" />
+      <mapping pattern="hhbuild" type="PLAIN_TEXT" />
+      <mapping pattern="rsync-to-hadoop" type="PLAIN_TEXT" />
+      <mapping ext="p12" type="PLAIN_TEXT" />
+      <mapping ext="dev" type="PLAIN_TEXT" />
+      <mapping ext="pickle" type="PLAIN_TEXT" />
+      <mapping ext="test" type="PLAIN_TEXT" />
+      <mapping ext="data" type="PLAIN_TEXT" />
+      <mapping ext="id" type="PLAIN_TEXT" />
+      <mapping ext="settings" type="PLAIN_TEXT" />
+      <mapping ext="cql" type="SQL" />
+    </extensionMap>
+  </component>
+</application>
