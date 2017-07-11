@@ -1,0 +1,15 @@
+<application>
+  <component name="ScratchConfig">
+    <option name="defaultScratchMeaning" value="TOPMOST" />
+    <option name="fullScratchNamesOrdered">
+      <list>
+        <option value="TEST.txt" />
+        <option value="README.md" />
+        <option value="scratch.txt" />
+        <option value="scratch_2.txt" />
+        <option value="scratch_3.txt" />
+      </list>
+    </option>
+    <option name="scratchesFolderPath" value="$APPLICATION_CONFIG_DIR$/scratches" />
+  </component>
+</application>
