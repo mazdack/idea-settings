@@ -7,12 +7,8 @@
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*Test.java" />
     <recentFileMasks>
-      <mask>Em(?!Test).java</mask>
-      <mask>Empl(?!Test).java</mask>
-      <mask>Emplo(?!Test).java</mask>
-      <mask>Employ(?!Test).java</mask>
-      <mask>Employer(?!Test).java</mask>
       <mask>EmployerM(?!Test).java</mask>
       <mask>EmployerMana(?!Test).java</mask>
       <mask>EmployerManage(?!Test).java</mask>
@@ -22,7 +18,6 @@
       <mask>EmployerManagerResou(?!Test).java</mask>
       <mask>EmployerManagerResour(?!Test).java</mask>
       <mask>EmployerManagerResource(?!Test).java</mask>
-      <mask>*</mask>
       <mask>*.h</mask>
       <mask>*.xml</mask>
       <mask>*.xm</mask>
@@ -33,11 +28,17 @@
       <mask>*.java</mask>
       <mask>*.jav</mask>
       <mask>*.ja</mask>
-      <mask>*.</mask>
       <mask>*.ht</mask>
       <mask>*.html</mask>
-      <mask>*.j</mask>
       <mask>*.js</mask>
+      <mask>*.j</mask>
+      <mask>*.</mask>
+      <mask>*</mask>
+      <mask>*T</mask>
+      <mask>*Test</mask>
+      <mask>*Test.</mask>
+      <mask>*Test.ja</mask>
+      <mask>*Test.java</mask>
     </recentFileMasks>
   </component>
 </application>
