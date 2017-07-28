@@ -24,7 +24,6 @@
       <mask>*.py</mask>
       <mask>*.p</mask>
       <mask>*.jsp</mask>
-      <mask>*.java</mask>
       <mask>*.jav</mask>
       <mask>*.ja</mask>
       <mask>*.ht</mask>
@@ -38,6 +37,7 @@
       <mask>*Test.</mask>
       <mask>*Test.ja</mask>
       <mask>*Test.java</mask>
+      <mask>*.java</mask>
     </recentFileMasks>
   </component>
 </application>
