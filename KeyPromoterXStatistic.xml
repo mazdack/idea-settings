@@ -1,0 +1,14 @@
+<application>
+  <component name="KeyPromoterXStatistic">
+    <option name="statistics">
+      <Statistic Action="Annotate">
+        <Item>
+          <IdeaActionID>Annotate</IdeaActionID>
+          <ShortCut>'⌘+N'</ShortCut>
+          <Description>Annotate</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+    </option>
+  </component>
+</application>
