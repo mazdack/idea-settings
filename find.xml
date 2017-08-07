@@ -31,13 +31,13 @@
       <mask>*.j</mask>
       <mask>*.po</mask>
       <mask>*.p</mask>
-      <mask>*.xml</mask>
       <mask>*.xm</mask>
       <mask>*.x</mask>
       <mask>*.</mask>
       <mask>*.ja</mask>
       <mask>*.jav</mask>
       <mask>*.java</mask>
+      <mask>*.xml</mask>
     </recentFileMasks>
   </component>
 </application>
