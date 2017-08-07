@@ -72,6 +72,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'Localetest.main()'">
+        <Item>
+          <IdeaActionID />
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'Localetest.main()'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'TaskManagerTest'">
         <Item>
           <IdeaActionID>Run</IdeaActionID>
