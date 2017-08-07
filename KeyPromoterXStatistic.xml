@@ -33,6 +33,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Declaration">
+        <Item>
+          <IdeaActionID>GotoDeclaration</IdeaActionID>
+          <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
+          <Description>Declaration</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Hide">
         <Item>
           <ShortCut>'⇧⎋'</ShortCut>
@@ -56,6 +64,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'ApplicantServicesStatisticsDaoTest'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'ApplicantServicesStatisticsDaoTest'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'TaskManagerTest'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -69,6 +85,14 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'⌥⌘R' or 'F9'</ShortCut>
           <Description>Resume Program</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'ApplicantServicesStatisticsDao...'">
+        <Item>
+          <IdeaActionID />
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'ApplicantServicesStatisticsDao...'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
