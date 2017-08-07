@@ -92,7 +92,7 @@
         <Item>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'ApplicantServicesStatisticsDao...'</Description>
-          <Count>2</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Localetest.main()'">
