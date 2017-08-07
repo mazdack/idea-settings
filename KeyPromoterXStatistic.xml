@@ -33,11 +33,27 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Hide">
+        <Item>
+          <IdeaActionID />
+          <ShortCut>'⇧⎋'</ShortCut>
+          <Description>Hide</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Project">
         <Item>
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'⌘+1'</ShortCut>
           <Description>Project</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Resume Program">
+        <Item>
+          <IdeaActionID>Resume</IdeaActionID>
+          <ShortCut>'⌥⌘R' or 'F9'</ShortCut>
+          <Description>Resume Program</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
