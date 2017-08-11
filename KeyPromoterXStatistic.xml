@@ -78,7 +78,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>4</Count>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Directory">
@@ -212,7 +212,6 @@
       </Statistic>
       <Statistic Action="Run 'TaskCreatingFunctionTest'">
         <Item>
-          <IdeaActionID />
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'TaskCreatingFunctionTest'</Description>
           <Count>1</Count>
@@ -236,7 +235,6 @@
       </Statistic>
       <Statistic Action="Run 'testCancelSchedule...()'">
         <Item>
-          <IdeaActionID />
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'testCancelSchedule...()'</Description>
           <Count>1</Count>
