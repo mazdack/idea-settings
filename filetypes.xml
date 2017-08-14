@@ -4,6 +4,7 @@
       <mapping pattern="data" type="PLAIN_TEXT" />
       <mapping ext="dev" type="PLAIN_TEXT" />
       <mapping ext="cql" type="SQL" />
+      <mapping ext="db" type="ThymeleafExpressions" />
     </extensionMap>
   </component>
 </application>
