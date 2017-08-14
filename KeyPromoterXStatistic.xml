@@ -101,7 +101,7 @@
         <Item>
           <ShortCut>'⌘+D'</ShortCut>
           <Description>Directory</Description>
-          <Count>5</Count>
+          <Count>6</Count>
         </Item>
       </Statistic>
       <Statistic Action="Evaluate Expression...">
@@ -112,11 +112,19 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Find Usages">
+        <Item>
+          <IdeaActionID>FindUsages</IdeaActionID>
+          <ShortCut>'⌥F7'</ShortCut>
+          <Description>Find Usages</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Hide">
         <Item>
           <ShortCut>'⇧⎋'</ShortCut>
           <Description>Hide</Description>
-          <Count>9</Count>
+          <Count>10</Count>
         </Item>
       </Statistic>
       <Statistic Action="Hide All Windows">
@@ -131,14 +139,14 @@
         <Item>
           <ShortCut>'⌘+P'</ShortCut>
           <Description>In Project</Description>
-          <Count>5</Count>
+          <Count>7</Count>
         </Item>
       </Statistic>
       <Statistic Action="Module">
         <Item>
           <ShortCut>'⌘+M'</ShortCut>
           <Description>Module</Description>
-          <Count>2</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Paste from History...">
@@ -292,7 +300,7 @@
         <Item>
           <ShortCut>'⌘+S'</ShortCut>
           <Description>Scope</Description>
-          <Count>4</Count>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Step Into">
@@ -348,7 +356,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>76</Count>
+          <Count>82</Count>
         </Item>
       </Statistic>
       <Statistic Action="Version Control">
