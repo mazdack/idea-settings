@@ -3,21 +3,11 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="!*.java" />
     <recentFileMasks>
-      <mask>EmployerMana(?!Test).java</mask>
-      <mask>EmployerManage(?!Test).java</mask>
-      <mask>EmployerManager(?!Test).java</mask>
-      <mask>EmployerManagerR(?!Test).java</mask>
-      <mask>EmployerManagerRe(?!Test).java</mask>
-      <mask>EmployerManagerResou(?!Test).java</mask>
-      <mask>EmployerManagerResour(?!Test).java</mask>
-      <mask>EmployerManagerResource(?!Test).java</mask>
-      <mask>*.h</mask>
-      <mask>*.jsp</mask>
       <mask>*.ht</mask>
       <mask>*.html</mask>
       <mask>*.js</mask>
-      <mask>*</mask>
       <mask>*T</mask>
       <mask>*Test</mask>
       <mask>*Test.</mask>
@@ -28,12 +18,23 @@
       <mask>*.ja</mask>
       <mask>*.jav</mask>
       <mask>*.java</mask>
-      <mask>*.xm</mask>
-      <mask>*.</mask>
-      <mask>*.p</mask>
       <mask>*.py</mask>
-      <mask>*.x</mask>
       <mask>*.xml</mask>
+      <mask>*.xm</mask>
+      <mask>*.x</mask>
+      <mask>*.set</mask>
+      <mask>*.se</mask>
+      <mask>*.s</mask>
+      <mask>*.pro</mask>
+      <mask>*.pr</mask>
+      <mask>*.p</mask>
+      <mask>*.</mask>
+      <mask>*</mask>
+      <mask>!</mask>
+      <mask>!*</mask>
+      <mask>!*.</mask>
+      <mask>!*.ja</mask>
+      <mask>!*.java</mask>
     </recentFileMasks>
   </component>
 </application>
