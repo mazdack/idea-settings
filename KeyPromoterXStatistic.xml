@@ -9,6 +9,14 @@
           <Count>4</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Check for Updates...">
+        <Item>
+          <IdeaActionID>CheckForUpdate</IdeaActionID>
+          <ShortCut>'⌘+C'</ShortCut>
+          <Description>Check for Updates...</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Copy Reference">
         <Item>
           <IdeaActionID>CopyReference</IdeaActionID>
@@ -253,7 +261,6 @@
       </Statistic>
       <Statistic Action="Run 'Bootstrap.main()'">
         <Item>
-          <IdeaActionID />
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'Bootstrap.main()'</Description>
           <Count>1</Count>
