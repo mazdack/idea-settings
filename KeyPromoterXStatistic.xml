@@ -407,5 +407,15 @@
         </Item>
       </Statistic>
     </option>
+    <option name="suppressed">
+      <Statistic Action="Back">
+        <Item>
+          <IdeaActionID>Back</IdeaActionID>
+          <ShortCut>'⌘[' or '⌥⌘←' or 'Button4 Click'</ShortCut>
+          <Description>Back</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+    </option>
   </component>
 </application>
