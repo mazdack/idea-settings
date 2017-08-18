@@ -46,7 +46,7 @@
           <IdeaActionID>ActivateDebugToolWindow</IdeaActionID>
           <ShortCut>'⌘+5'</ShortCut>
           <Description>Debug</Description>
-          <Count>13</Count>
+          <Count>14</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'ApplicantServicesStatisticsDao...'">
@@ -118,7 +118,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>110</Count>
+          <Count>112</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -269,6 +269,14 @@
           <Count>8</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'NotesTest.accountNotesWithTTLDelete'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'NotesTest.accountNotesWithTTLDelete'</Description>
+          <Count>5</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'NotesTest.testAccountNoteSurvivesLogout'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -322,7 +330,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'⌥⌘R' or 'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>114</Count>
+          <Count>135</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -446,6 +454,14 @@
           <Count>3</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'NotesTest.accountNotesWithTTLDelete'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'NotesTest.accountNotesWithTTLDelete'</Description>
+          <Count>4</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'NotesTest.testAccountNoteSurvivesLogout'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -515,7 +531,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>138</Count>
+          <Count>151</Count>
         </Item>
       </Statistic>
       <Statistic Action="Version Control">
