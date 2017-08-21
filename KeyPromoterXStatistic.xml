@@ -126,7 +126,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>128</Count>
+          <Count>129</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -220,6 +220,14 @@
           <ShortCut>'⌘+P'</ShortCut>
           <Description>In Project</Description>
           <Count>7</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Inline...">
+        <Item>
+          <IdeaActionID>Inline</IdeaActionID>
+          <ShortCut>'⌥⌘N'</ShortCut>
+          <Description>Inline...</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Messages">
