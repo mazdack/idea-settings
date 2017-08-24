@@ -25,6 +25,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Collapse">
+        <Item>
+          <IdeaActionID>CollapseRegion</IdeaActionID>
+          <ShortCut>'⌘-' or '⌘-'</ShortCut>
+          <Description>Collapse</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Copy Reference">
         <Item>
           <IdeaActionID>CopyReference</IdeaActionID>
@@ -238,6 +246,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Method...">
+        <Item>
+          <IdeaActionID>ExtractMethod</IdeaActionID>
+          <ShortCut>'⌥⌘M'</ShortCut>
+          <Description>Method...</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Module">
         <Item>
           <ShortCut>'⌘+M'</ShortCut>
@@ -370,7 +386,7 @@
           <IdeaActionID>HideAllWindows</IdeaActionID>
           <ShortCut>'⇧⌘F12'</ShortCut>
           <Description>Restore Windows</Description>
-          <Count>16</Count>
+          <Count>17</Count>
         </Item>
       </Statistic>
       <Statistic Action="Resume Program">
