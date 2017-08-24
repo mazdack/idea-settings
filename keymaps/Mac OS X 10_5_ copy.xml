@@ -14,4 +14,8 @@
     <keyboard-shortcut first-keystroke="meta m" />
   </action>
   <action id="MinimizeCurrentWindow" />
+  <action id="NextProjectWindow" />
+  <action id="OpenProjectWindows">
+    <keyboard-shortcut first-keystroke="meta back_quote" />
+  </action>
 </keymap>
