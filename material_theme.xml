@@ -1,0 +1,7 @@
+<application>
+  <component name="MaterialThemeConfig">
+    <option name="selectedTheme" value="DARKER" />
+    <option name="isMaterialDesign" value="false" />
+    <option name="tabsHeight" value="50" />
+  </component>
+</application>
