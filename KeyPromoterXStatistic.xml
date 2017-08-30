@@ -46,7 +46,7 @@
           <IdeaActionID>CopyReference</IdeaActionID>
           <ShortCut>'⌥⇧⌘C'</ShortCut>
           <Description>Copy Reference</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy Value">
@@ -174,7 +174,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>389</Count>
+          <Count>396</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -322,7 +322,7 @@
           <IdeaActionID>RenameElement</IdeaActionID>
           <ShortCut>'⇧F6'</ShortCut>
           <Description>Rename...</Description>
-          <Count>1</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'ApplicantServicesStatisticsDaoTest'">
