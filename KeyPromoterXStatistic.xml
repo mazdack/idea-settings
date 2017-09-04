@@ -710,6 +710,14 @@
           <Count>5</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Show Image Thumbnails">
+        <Item>
+          <IdeaActionID>Images.ShowThumbnails</IdeaActionID>
+          <ShortCut>'⇧⌘T'</ShortCut>
+          <Description>Show Image Thumbnails</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Step Into">
         <Item>
           <IdeaActionID>StepInto</IdeaActionID>
