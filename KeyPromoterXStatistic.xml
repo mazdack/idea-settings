@@ -41,6 +41,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Compare With...">
+        <Item>
+          <IdeaActionID>CompareTwoFiles</IdeaActionID>
+          <ShortCut>'⌘D'</ShortCut>
+          <Description>Compare With...</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Constant...">
         <Item>
           <IdeaActionID>IntroduceConstant</IdeaActionID>
@@ -214,7 +222,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>596</Count>
+          <Count>600</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
