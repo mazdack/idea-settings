@@ -262,7 +262,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'⌃D'</ShortCut>
           <Description>Debug 'v2'</Description>
-          <Count>7</Count>
+          <Count>8</Count>
         </Item>
       </Statistic>
       <Statistic Action="Declaration">
@@ -270,7 +270,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>1026</Count>
+          <Count>1035</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -293,7 +293,7 @@
           <IdeaActionID>EvaluateExpression</IdeaActionID>
           <ShortCut>'⌥F8'</ShortCut>
           <Description>Evaluate Expression...</Description>
-          <Count>45</Count>
+          <Count>46</Count>
         </Item>
       </Statistic>
       <Statistic Action="Exit Full Screen">
@@ -364,7 +364,7 @@
           <IdeaActionID>HideAllWindows</IdeaActionID>
           <ShortCut>'⇧⌘F12'</ShortCut>
           <Description>Hide All Windows</Description>
-          <Count>79</Count>
+          <Count>80</Count>
         </Item>
       </Statistic>
       <Statistic Action="In Project">
@@ -666,7 +666,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'v2'</Description>
-          <Count>10</Count>
+          <Count>18</Count>
         </Item>
       </Statistic>
       <Statistic Action="Restore Windows">
@@ -682,7 +682,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'⌥⌘R' or 'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>231</Count>
+          <Count>245</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -1091,7 +1091,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'v2'</Description>
-          <Count>6</Count>
+          <Count>14</Count>
         </Item>
       </Statistic>
       <Statistic Action="Structure">
@@ -1115,7 +1115,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>279</Count>
+          <Count>285</Count>
         </Item>
       </Statistic>
       <Statistic Action="Type Migration...">
