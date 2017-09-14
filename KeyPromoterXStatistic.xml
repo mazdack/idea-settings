@@ -278,7 +278,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>1190</Count>
+          <Count>1194</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -380,7 +380,7 @@
           <IdeaActionID>HideAllWindows</IdeaActionID>
           <ShortCut>'⇧⌘F12'</ShortCut>
           <Description>Hide All Windows</Description>
-          <Count>87</Count>
+          <Count>88</Count>
         </Item>
       </Statistic>
       <Statistic Action="In Project">
@@ -721,7 +721,7 @@
           <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
           <ShortCut>'⌘+4'</ShortCut>
           <Description>Run</Description>
-          <Count>11</Count>
+          <Count>12</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'All Tests'">
