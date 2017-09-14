@@ -25,15 +25,15 @@
       <mask>!*.</mask>
       <mask>!*.ja</mask>
       <mask>!*.java</mask>
-      <mask>*.x</mask>
-      <mask>*.xml</mask>
       <mask>*.java</mask>
       <mask>*.jav</mask>
       <mask>*.ja</mask>
       <mask>*.j</mask>
-      <mask>*.</mask>
-      <mask>*.p</mask>
       <mask>*.py</mask>
+      <mask>*.p</mask>
+      <mask>*.</mask>
+      <mask>*.x</mask>
+      <mask>*.xml</mask>
     </recentFileMasks>
   </component>
 </application>
