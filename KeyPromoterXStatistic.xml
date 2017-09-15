@@ -434,7 +434,7 @@
           <IdeaActionID>NextTaskAction</IdeaActionID>
           <ShortCut>'⌘.' or '⌃.'</ShortCut>
           <Description>Next Task</Description>
-          <Count>6</Count>
+          <Count>7</Count>
         </Item>
       </Statistic>
       <Statistic Action="Paste">
