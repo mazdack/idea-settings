@@ -17,6 +17,14 @@
           <Count>3</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Check Task">
+        <Item>
+          <IdeaActionID>Edu.Check</IdeaActionID>
+          <ShortCut>'⌥⌘⏎' or '⌃⌥⏎'</ShortCut>
+          <Description>Check Task</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Check for Updates...">
         <Item>
           <IdeaActionID>CheckForUpdate</IdeaActionID>
@@ -421,6 +429,14 @@
           <Count>3</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Next Task">
+        <Item>
+          <IdeaActionID>NextTaskAction</IdeaActionID>
+          <ShortCut>'⌘.' or '⌃.'</ShortCut>
+          <Description>Next Task</Description>
+          <Count>6</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Paste">
         <Item>
           <IdeaActionID>$Paste</IdeaActionID>
@@ -434,6 +450,14 @@
           <IdeaActionID>PasteMultiple</IdeaActionID>
           <ShortCut>'⇧⌘V'</ShortCut>
           <Description>Paste from History...</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Previous Task">
+        <Item>
+          <IdeaActionID>PreviousTaskAction</IdeaActionID>
+          <ShortCut>'⌘,' or '⌃,'</ShortCut>
+          <Description>Previous Task</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
