@@ -1,4 +1,4 @@
-<profile version="1.0">
+<inspections profile_name="HH Inspections" version="1.0">
   <option name="myName" value="HH Inspections" />
   <inspection_tool class="AssignmentResultUsedJS" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="AssignmentToForLoopParameterJS" enabled="true" level="WARNING" enabled_by_default="true" />
@@ -116,4 +116,4 @@
     <option name="m_ignoreCatchBlocksWithComments" value="false" />
   </inspection_tool>
   <inspection_tool class="VoidExpressionJS" enabled="true" level="WARNING" enabled_by_default="true" />
-</profile>
+</inspections>
