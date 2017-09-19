@@ -725,6 +725,14 @@
           <Count>5</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Reset Task File">
+        <Item>
+          <IdeaActionID>RefreshTaskAction</IdeaActionID>
+          <ShortCut>'⇧⌘X' or '⌃⇧X'</ShortCut>
+          <Description>Reset Task File</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Restore Windows">
         <Item>
           <IdeaActionID>HideAllWindows</IdeaActionID>
