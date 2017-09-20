@@ -294,7 +294,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>1271</Count>
+          <Count>1274</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -442,7 +442,7 @@
           <IdeaActionID>NextTaskAction</IdeaActionID>
           <ShortCut>'⌘.' or '⌃.'</ShortCut>
           <Description>Next Task</Description>
-          <Count>17</Count>
+          <Count>25</Count>
         </Item>
       </Statistic>
       <Statistic Action="Paste">
@@ -466,7 +466,7 @@
           <IdeaActionID>PreviousTaskAction</IdeaActionID>
           <ShortCut>'⌘,' or '⌃,'</ShortCut>
           <Description>Previous Task</Description>
-          <Count>4</Count>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Project">
