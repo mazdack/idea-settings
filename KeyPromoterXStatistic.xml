@@ -22,7 +22,7 @@
           <IdeaActionID>Edu.Check</IdeaActionID>
           <ShortCut>'⌥⌘⏎' or '⌃⌥⏎'</ShortCut>
           <Description>Check Task</Description>
-          <Count>2</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Check for Updates...">
@@ -294,7 +294,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>1251</Count>
+          <Count>1260</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -442,7 +442,7 @@
           <IdeaActionID>NextTaskAction</IdeaActionID>
           <ShortCut>'⌘.' or '⌃.'</ShortCut>
           <Description>Next Task</Description>
-          <Count>8</Count>
+          <Count>11</Count>
         </Item>
       </Statistic>
       <Statistic Action="Paste">
@@ -466,7 +466,7 @@
           <IdeaActionID>PreviousTaskAction</IdeaActionID>
           <ShortCut>'⌘,' or '⌃,'</ShortCut>
           <Description>Previous Task</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Project">
@@ -723,6 +723,14 @@
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'sofea debug'</Description>
           <Count>5</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Reset Task File">
+        <Item>
+          <IdeaActionID>RefreshTaskAction</IdeaActionID>
+          <ShortCut>'⇧⌘X' or '⌃⇧X'</ShortCut>
+          <Description>Reset Task File</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Restore Windows">
