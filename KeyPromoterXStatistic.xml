@@ -22,7 +22,7 @@
           <IdeaActionID>Edu.Check</IdeaActionID>
           <ShortCut>'⌥⌘⏎' or '⌃⌥⏎'</ShortCut>
           <Description>Check Task</Description>
-          <Count>3</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Check for Updates...">
@@ -294,7 +294,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>1260</Count>
+          <Count>1274</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -396,7 +396,7 @@
           <IdeaActionID>HideAllWindows</IdeaActionID>
           <ShortCut>'⇧⌘F12'</ShortCut>
           <Description>Hide All Windows</Description>
-          <Count>92</Count>
+          <Count>93</Count>
         </Item>
       </Statistic>
       <Statistic Action="In Project">
@@ -442,7 +442,7 @@
           <IdeaActionID>NextTaskAction</IdeaActionID>
           <ShortCut>'⌘.' or '⌃.'</ShortCut>
           <Description>Next Task</Description>
-          <Count>11</Count>
+          <Count>27</Count>
         </Item>
       </Statistic>
       <Statistic Action="Paste">
@@ -466,7 +466,7 @@
           <IdeaActionID>PreviousTaskAction</IdeaActionID>
           <ShortCut>'⌘,' or '⌃,'</ShortCut>
           <Description>Previous Task</Description>
-          <Count>2</Count>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Project">
@@ -730,7 +730,7 @@
           <IdeaActionID>RefreshTaskAction</IdeaActionID>
           <ShortCut>'⇧⌘X' or '⌃⇧X'</ShortCut>
           <Description>Reset Task File</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Restore Windows">
