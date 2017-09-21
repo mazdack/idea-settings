@@ -25,8 +25,6 @@
       <mask>!*.ja</mask>
       <mask>!*.java</mask>
       <mask>*.j</mask>
-      <mask>*.py</mask>
-      <mask>*.p</mask>
       <mask>*.xml</mask>
       <mask>*.xm</mask>
       <mask>*.x</mask>
@@ -34,6 +32,8 @@
       <mask>*.ja</mask>
       <mask>*.jav</mask>
       <mask>*.java</mask>
+      <mask>*.p</mask>
+      <mask>*.py</mask>
     </recentFileMasks>
   </component>
 </application>
