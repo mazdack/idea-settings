@@ -3,12 +3,12 @@
     <option name="caseSensitive" value="true" />
     <option name="customScope" value="Project Files" />
     <option name="defaultScopeName" value="Project Files" />
+    <option name="regularExpressions" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Project Files" />
+    <option name="FILE_MASK" value="*.html" />
     <recentFileMasks>
-      <mask>*.js</mask>
-      <mask>*T</mask>
-      <mask>*Test</mask>
       <mask>*Test.</mask>
       <mask>*Test.ja</mask>
       <mask>*Test.java</mask>
@@ -28,14 +28,17 @@
       <mask>*.x</mask>
       <mask>*.py</mask>
       <mask>*.p</mask>
-      <mask>*.j</mask>
       <mask>*.sql</mask>
       <mask>*.sq</mask>
       <mask>*.s</mask>
-      <mask>*.</mask>
-      <mask>*.ja</mask>
-      <mask>*.jav</mask>
       <mask>*.java</mask>
+      <mask>*.jav</mask>
+      <mask>*.ja</mask>
+      <mask>*.j</mask>
+      <mask>*.</mask>
+      <mask>*.h</mask>
+      <mask>*.ht</mask>
+      <mask>*.html</mask>
     </recentFileMasks>
   </component>
 </application>
