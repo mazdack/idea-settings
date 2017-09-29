@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="group_vars" type="PLAIN_TEXT" />
       <mapping pattern="upgrade-notes" type="PLAIN_TEXT" />
+      <mapping pattern="smpp-gate-docker2" type="PLAIN_TEXT" />
       <mapping pattern="smpp-gate-docker" type="PLAIN_TEXT" />
       <mapping pattern="data" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
