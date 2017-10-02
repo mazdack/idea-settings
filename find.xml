@@ -1,39 +1,39 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="customScope" value="Project Files" />
+    <option name="defaultScopeName" value="Project Files" />
+    <option name="SEARCH_SCOPE" value="Project Files" />
     <recentFileMasks>
-      <mask>*.ht</mask>
-      <mask>*.html</mask>
-      <mask>*.js</mask>
-      <mask>*T</mask>
-      <mask>*Test</mask>
-      <mask>*Test.</mask>
-      <mask>*Test.ja</mask>
-      <mask>*Test.java</mask>
-      <mask>*.po</mask>
-      <mask>*.set</mask>
-      <mask>*.se</mask>
-      <mask>*.s</mask>
-      <mask>*.pro</mask>
-      <mask>*.pr</mask>
-      <mask>*</mask>
-      <mask>!</mask>
-      <mask>!*</mask>
-      <mask>!*.</mask>
-      <mask>!*.ja</mask>
-      <mask>!*.java</mask>
-      <mask>*.j</mask>
-      <mask>*.xml</mask>
-      <mask>*.xm</mask>
       <mask>*.x</mask>
-      <mask>*.</mask>
-      <mask>*.ja</mask>
-      <mask>*.jav</mask>
-      <mask>*.java</mask>
-      <mask>*.p</mask>
+      <mask>*.sq</mask>
+      <mask>*.sql</mask>
+      <mask>*.s</mask>
+      <mask>*.п</mask>
+      <mask>*.рьд</mask>
+      <mask>*.рь</mask>
+      <mask>*.р</mask>
+      <mask>*.html</mask>
+      <mask>*.htm</mask>
+      <mask>*.ht</mask>
+      <mask>*.h</mask>
+      <mask>*.python</mask>
+      <mask>*.pytho</mask>
+      <mask>*.pyth</mask>
+      <mask>*.pyt</mask>
       <mask>*.py</mask>
+      <mask>*.p</mask>
+      <mask>*.java</mask>
+      <mask>*.jav</mask>
+      <mask>*.ja</mask>
+      <mask>*.j</mask>
+      <mask>*.</mask>
+      <mask>*.yaml</mask>
+      <mask>*.yam</mask>
+      <mask>*.ya</mask>
+      <mask>*.y</mask>
+      <mask>*.ym;</mask>
+      <mask>*.ym</mask>
+      <mask>*.yml</mask>
     </recentFileMasks>
   </component>
 </application>
