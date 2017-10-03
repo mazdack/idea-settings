@@ -22,7 +22,7 @@
           <IdeaActionID>Edu.Check</IdeaActionID>
           <ShortCut>'⌥⌘⏎' or '⌃⌥⏎'</ShortCut>
           <Description>Check Task</Description>
-          <Count>4</Count>
+          <Count>12</Count>
         </Item>
       </Statistic>
       <Statistic Action="Check for Updates...">
@@ -310,7 +310,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>1536</Count>
+          <Count>1538</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -458,7 +458,7 @@
           <IdeaActionID>NextTaskAction</IdeaActionID>
           <ShortCut>'⌘.' or '⌃.'</ShortCut>
           <Description>Next Task</Description>
-          <Count>27</Count>
+          <Count>31</Count>
         </Item>
       </Statistic>
       <Statistic Action="Paste">
@@ -482,7 +482,7 @@
           <IdeaActionID>PreviousTaskAction</IdeaActionID>
           <ShortCut>'⌘,' or '⌃,'</ShortCut>
           <Description>Previous Task</Description>
-          <Count>5</Count>
+          <Count>7</Count>
         </Item>
       </Statistic>
       <Statistic Action="Project">
@@ -1019,6 +1019,14 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'CountersDaoTest.incrementFailCounter'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'DemoKt'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'DemoKt'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
