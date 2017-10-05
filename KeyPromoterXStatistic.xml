@@ -281,6 +281,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'testDropInProgress...()'">
+        <Item>
+          <IdeaActionID>DebugClass</IdeaActionID>
+          <ShortCut>'⌃⇧D'</ShortCut>
+          <Description>Debug 'testDropInProgress...()'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'testDuplicateAccou...()'">
         <Item>
           <IdeaActionID>DebugClass</IdeaActionID>
@@ -318,7 +326,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>1709</Count>
+          <Count>1724</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -341,7 +349,7 @@
           <IdeaActionID>EvaluateExpression</IdeaActionID>
           <ShortCut>'⌥F8'</ShortCut>
           <Description>Evaluate Expression...</Description>
-          <Count>61</Count>
+          <Count>62</Count>
         </Item>
       </Statistic>
       <Statistic Action="Exit Full Screen">
@@ -538,7 +546,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'All in hh-smpp-gate'</Description>
-          <Count>26</Count>
+          <Count>27</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'ApplicantServicesStatisticsDaoTest'">
@@ -611,6 +619,14 @@
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'MessageDaoTest.testGetMessagesCount'</Description>
           <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'MessageServiceTest.testDropInProgressFlag'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'MessageServiceTest.testDropInProgressFlag'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'MessageServiceTest.testGetDanglingTasks'">
@@ -794,7 +810,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'⌥⌘R' or 'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>344</Count>
+          <Count>346</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -833,7 +849,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'⌃R'</ShortCut>
           <Description>Run 'All in hh-smpp-gate'</Description>
-          <Count>7</Count>
+          <Count>9</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'ApplicantServicesStatisticsDao...'">
@@ -1083,7 +1099,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'MessageServiceTest.testDropInProgressFlag'</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'MessageServiceTest.testGetDanglingTasks'">
@@ -1299,7 +1315,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>400</Count>
+          <Count>402</Count>
         </Item>
       </Statistic>
       <Statistic Action="Type Migration...">
