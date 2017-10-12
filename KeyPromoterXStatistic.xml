@@ -22,7 +22,7 @@
           <IdeaActionID>Edu.Check</IdeaActionID>
           <ShortCut>'⌥⌘⏎' or '⌃⌥⏎'</ShortCut>
           <Description>Check Task</Description>
-          <Count>12</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Check for Updates...">
@@ -78,7 +78,7 @@
           <IdeaActionID>CopyReference</IdeaActionID>
           <ShortCut>'⌥⇧⌘C'</ShortCut>
           <Description>Copy Reference</Description>
-          <Count>2</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy Relative Path">
@@ -102,7 +102,7 @@
           <IdeaActionID>ActivateDebugToolWindow</IdeaActionID>
           <ShortCut>'⌘+5'</ShortCut>
           <Description>Debug</Description>
-          <Count>32</Count>
+          <Count>46</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'All in hh-smpp-gate'">
@@ -127,6 +127,14 @@
           <ShortCut>'⌃D'</ShortCut>
           <Description>Debug 'Bootstrap'</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'CleanDanglingMessagesTaskTest'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'⌃D'</ShortCut>
+          <Description>Debug 'CleanDanglingMessagesTaskTest'</Description>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'CountersDaoTest'">
@@ -230,7 +238,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'⌃D'</ShortCut>
           <Description>Debug 'exec:java'</Description>
-          <Count>4</Count>
+          <Count>10</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'hhid debug'">
@@ -254,7 +262,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'⌃D'</ShortCut>
           <Description>Debug 'smpp debug'</Description>
-          <Count>2</Count>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'sofea debug'">
@@ -270,6 +278,14 @@
           <IdeaActionID>DebugClass</IdeaActionID>
           <ShortCut>'⌃⇧D'</ShortCut>
           <Description>Debug 'testDeleteMessage()'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'testDropInProgress...()'">
+        <Item>
+          <IdeaActionID>DebugClass</IdeaActionID>
+          <ShortCut>'⌃⇧D'</ShortCut>
+          <Description>Debug 'testDropInProgress...()'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -305,14 +321,6 @@
           <Count>8</Count>
         </Item>
       </Statistic>
-      <Statistic Action="Declaration">
-        <Item>
-          <IdeaActionID>GotoDeclaration</IdeaActionID>
-          <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
-          <Description>Declaration</Description>
-          <Count>1542</Count>
-        </Item>
-      </Statistic>
       <Statistic Action="Delete...">
         <Item>
           <IdeaActionID>$Delete</IdeaActionID>
@@ -333,7 +341,7 @@
           <IdeaActionID>EvaluateExpression</IdeaActionID>
           <ShortCut>'⌥F8'</ShortCut>
           <Description>Evaluate Expression...</Description>
-          <Count>60</Count>
+          <Count>62</Count>
         </Item>
       </Statistic>
       <Statistic Action="Exit Full Screen">
@@ -412,7 +420,7 @@
           <IdeaActionID>HideAllWindows</IdeaActionID>
           <ShortCut>'⇧⌘F12'</ShortCut>
           <Description>Hide All Windows</Description>
-          <Count>114</Count>
+          <Count>133</Count>
         </Item>
       </Statistic>
       <Statistic Action="In Project">
@@ -458,7 +466,7 @@
           <IdeaActionID>NextTaskAction</IdeaActionID>
           <ShortCut>'⌘.' or '⌃.'</ShortCut>
           <Description>Next Task</Description>
-          <Count>31</Count>
+          <Count>27</Count>
         </Item>
       </Statistic>
       <Statistic Action="Paste">
@@ -482,7 +490,7 @@
           <IdeaActionID>PreviousTaskAction</IdeaActionID>
           <ShortCut>'⌘,' or '⌃,'</ShortCut>
           <Description>Previous Task</Description>
-          <Count>7</Count>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Project">
@@ -490,7 +498,7 @@
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'⌘+1'</ShortCut>
           <Description>Project</Description>
-          <Count>10</Count>
+          <Count>11</Count>
         </Item>
       </Statistic>
       <Statistic Action="Project Structure...">
@@ -530,7 +538,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'All in hh-smpp-gate'</Description>
-          <Count>25</Count>
+          <Count>27</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'ApplicantServicesStatisticsDaoTest'">
@@ -555,6 +563,14 @@
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'Bootstrap'</Description>
           <Count>5</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'CleanDanglingMessagesTaskTest'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'CleanDanglingMessagesTaskTest'</Description>
+          <Count>6</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'CountersDaoTest'">
@@ -595,6 +611,14 @@
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'MessageDaoTest.testGetMessagesCount'</Description>
           <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'MessageServiceTest.testDropInProgressFlag'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'MessageServiceTest.testDropInProgressFlag'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'MessageServiceTest.testGetDanglingTasks'">
@@ -722,7 +746,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'exec:java'</Description>
-          <Count>5</Count>
+          <Count>62</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'hhid debug'">
@@ -762,7 +786,7 @@
           <IdeaActionID>RefreshTaskAction</IdeaActionID>
           <ShortCut>'⇧⌘X' or '⌃⇧X'</ShortCut>
           <Description>Reset Task File</Description>
-          <Count>3</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Restore Windows">
@@ -770,7 +794,7 @@
           <IdeaActionID>HideAllWindows</IdeaActionID>
           <ShortCut>'⇧⌘F12'</ShortCut>
           <Description>Restore Windows</Description>
-          <Count>78</Count>
+          <Count>88</Count>
         </Item>
       </Statistic>
       <Statistic Action="Resume Program">
@@ -778,7 +802,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'⌥⌘R' or 'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>284</Count>
+          <Count>346</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -786,7 +810,7 @@
           <IdeaActionID>ChangesView.Revert</IdeaActionID>
           <ShortCut>'⌥⌘Z'</ShortCut>
           <Description>Revert...</Description>
-          <Count>6</Count>
+          <Count>7</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rollback">
@@ -801,7 +825,7 @@
           <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
           <ShortCut>'⌘+4'</ShortCut>
           <Description>Run</Description>
-          <Count>13</Count>
+          <Count>19</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'All Tests'">
@@ -817,7 +841,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'⌃R'</ShortCut>
           <Description>Run 'All in hh-smpp-gate'</Description>
-          <Count>6</Count>
+          <Count>9</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'ApplicantServicesStatisticsDao...'">
@@ -910,6 +934,14 @@
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'accountNotesWithTT...()'</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'exec:java'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⌃R'</ShortCut>
+          <Description>Run 'exec:java'</Description>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'maTest.name'">
@@ -1014,19 +1046,19 @@
           <Count>6</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'CleanDanglingMessagesTaskTest'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'CleanDanglingMessagesTaskTest'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'CountersDaoTest.incrementFailCounter'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'CountersDaoTest.incrementFailCounter'</Description>
-          <Count>1</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Stop 'DemoKt'">
-        <Item>
-          <IdeaActionID>Stop</IdeaActionID>
-          <ShortCut>'⌘F2'</ShortCut>
-          <Description>Stop 'DemoKt'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -1059,7 +1091,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'MessageServiceTest.testDropInProgressFlag'</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'MessageServiceTest.testGetDanglingTasks'">
@@ -1195,7 +1227,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'exec:java'</Description>
-          <Count>7</Count>
+          <Count>46</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'hhid debug'">
@@ -1227,7 +1259,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'smpp debug'</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'sofea debug'">
@@ -1251,7 +1283,7 @@
           <IdeaActionID>ActivateStructureToolWindow</IdeaActionID>
           <ShortCut>'⌘7'</ShortCut>
           <Description>Structure</Description>
-          <Count>4</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="TODO">
@@ -1267,7 +1299,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'⌥F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>2</Count>
+          <Count>8</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
@@ -1275,7 +1307,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>347</Count>
+          <Count>410</Count>
         </Item>
       </Statistic>
       <Statistic Action="Type Migration...">
@@ -1291,7 +1323,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'⌘+9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>4</Count>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="View Breakpoints...">
@@ -1299,7 +1331,7 @@
           <IdeaActionID>ViewBreakpoints</IdeaActionID>
           <ShortCut>'⇧⌘F8'</ShortCut>
           <Description>View Breakpoints...</Description>
-          <Count>5</Count>
+          <Count>9</Count>
         </Item>
       </Statistic>
     </option>
@@ -1310,6 +1342,14 @@
           <ShortCut>'⌘[' or '⌥⌘←' or 'Button4 Click'</ShortCut>
           <Description>Back</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Declaration">
+        <Item>
+          <IdeaActionID>GotoDeclaration</IdeaActionID>
+          <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
+          <Description>Declaration</Description>
+          <Count>1759</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'v2'">
