@@ -15,9 +15,6 @@
       <mask>*.pytho</mask>
       <mask>*.pyth</mask>
       <mask>*.pyt</mask>
-      <mask>*.py</mask>
-      <mask>*.p</mask>
-      <mask>*.j</mask>
       <mask>*.yaml</mask>
       <mask>*.yam</mask>
       <mask>*.ya</mask>
@@ -30,10 +27,13 @@
       <mask>*.x</mask>
       <mask>*.js</mask>
       <mask>*</mask>
-      <mask>*.</mask>
-      <mask>*.ja</mask>
       <mask>*.jav</mask>
       <mask>*.java</mask>
+      <mask>*.ja</mask>
+      <mask>*.j</mask>
+      <mask>*.</mask>
+      <mask>*.p</mask>
+      <mask>*.py</mask>
     </recentFileMasks>
   </component>
 </application>
