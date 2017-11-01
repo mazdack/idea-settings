@@ -145,6 +145,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'ExaminatorControllerIntegTest'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'⌃D'</ShortCut>
+          <Description>Debug 'ExaminatorControllerIntegTest'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'Launcher'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
@@ -634,6 +642,14 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'CountersDaoTest.incrementFailCounter'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'ExaminatorControllerIntegTest'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'ExaminatorControllerIntegTest'</Description>
           <Count>2</Count>
         </Item>
       </Statistic>
@@ -1190,6 +1206,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'ExaminatorControllerIntegTest'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'ExaminatorControllerIntegTest'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'Launcher'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -1475,7 +1499,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>483</Count>
+          <Count>484</Count>
         </Item>
       </Statistic>
       <Statistic Action="Type Declaration">
