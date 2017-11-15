@@ -121,6 +121,14 @@
           <Count>3</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'BannerVersionsLogParserTest.name'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'⌃D'</ShortCut>
+          <Description>Debug 'BannerVersionsLogParserTest.name'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'Bootstrap'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
@@ -626,7 +634,15 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'BannerVersionsLogParserTest.name'</Description>
-          <Count>1</Count>
+          <Count>5</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'BannerVersionsLogParserTest.parseJson'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'BannerVersionsLogParserTest.parseJson'</Description>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'Bootstrap'">
@@ -961,7 +977,7 @@
           <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
           <ShortCut>'⌘+4'</ShortCut>
           <Description>Run</Description>
-          <Count>31</Count>
+          <Count>32</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'All Tests'">
@@ -985,6 +1001,14 @@
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'ApplicantServicesStatisticsDao...'</Description>
           <Count>6</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'BannerVersionsLogParserTest.name'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⌃R'</ShortCut>
+          <Description>Run 'BannerVersionsLogParserTest.name'</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Bootstrap.main()'">
@@ -1259,6 +1283,14 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'ApplicantServicesStatisticsDaoTest'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'BannerVersionsLogParserTest.name'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'BannerVersionsLogParserTest.name'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -1587,7 +1619,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>498</Count>
+          <Count>500</Count>
         </Item>
       </Statistic>
       <Statistic Action="Type Declaration">
