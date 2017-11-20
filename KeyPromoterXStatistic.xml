@@ -1027,6 +1027,14 @@
           <Count>6</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'BannerVersionsLogParserTest'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⌃R'</ShortCut>
+          <Description>Run 'BannerVersionsLogParserTest'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'BannerVersionsLogParserTest.name'">
         <Item>
           <IdeaActionID>Run</IdeaActionID>
