@@ -1,16 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="pom.xml" />
     <recentFileMasks>
-      <mask>*.рьд</mask>
-      <mask>*.рь</mask>
-      <mask>*.р</mask>
-      <mask>*.html</mask>
-      <mask>*.htm</mask>
       <mask>*.ht</mask>
       <mask>*.h</mask>
       <mask>*.python</mask>
@@ -28,14 +22,19 @@
       <mask>*</mask>
       <mask>*.py</mask>
       <mask>*.p</mask>
-      <mask>*.ja</mask>
-      <mask>*.j</mask>
       <mask>*.xsl</mask>
       <mask>*.xs</mask>
       <mask>*.x</mask>
-      <mask>*.</mask>
-      <mask>*.jav</mask>
       <mask>*.java</mask>
+      <mask>*.jav</mask>
+      <mask>*.ja</mask>
+      <mask>*.j</mask>
+      <mask>*.</mask>
+      <mask>*.xml</mask>
+      <mask>.xml</mask>
+      <mask>p.xml</mask>
+      <mask>po.xml</mask>
+      <mask>pom.xml</mask>
     </recentFileMasks>
   </component>
 </application>
