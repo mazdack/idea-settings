@@ -4,6 +4,9 @@
       <action id="$LRU">
         <abbreviation name="open" />
       </action>
+      <action id="RecentProjectListGroup">
+        <abbreviation name="open" />
+      </action>
       <action id="CloseProject">
         <abbreviation name="close" />
       </action>
