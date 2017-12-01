@@ -556,7 +556,7 @@
           <IdeaActionID>HideAllWindows</IdeaActionID>
           <ShortCut>'⇧⌘F12'</ShortCut>
           <Description>Hide All Windows</Description>
-          <Count>175</Count>
+          <Count>176</Count>
         </Item>
       </Statistic>
       <Statistic Action="In Project">
@@ -1265,6 +1265,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'PollsApplication'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⌃R'</ShortCut>
+          <Description>Run 'PollsApplication'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'RandomExerciesControllerTest'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
@@ -1708,6 +1716,14 @@
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'NotesTest.testExtraAccountNotesTtl'</Description>
           <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'PollsApplication'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'PollsApplication'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'ResumeExperienceUpdaterTest.resumeExperienceUpdaterTest'">
