@@ -485,7 +485,7 @@
           <IdeaActionID>EvaluateExpression</IdeaActionID>
           <ShortCut>'⌥F8'</ShortCut>
           <Description>Evaluate Expression...</Description>
-          <Count>102</Count>
+          <Count>104</Count>
         </Item>
       </Statistic>
       <Statistic Action="Exit Full Screen">
@@ -557,7 +557,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>GoTo</Description>
-          <Count>181</Count>
+          <Count>188</Count>
         </Item>
       </Statistic>
       <Statistic Action="Hide">
@@ -1843,7 +1843,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'as debug'</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'example app'">
