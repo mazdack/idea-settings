@@ -110,7 +110,7 @@
           <IdeaActionID>ActivateDebugToolWindow</IdeaActionID>
           <ShortCut>'⌘+5'</ShortCut>
           <Description>Debug</Description>
-          <Count>58</Count>
+          <Count>60</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'All in hh-smpp-gate'">
@@ -557,7 +557,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>GoTo</Description>
-          <Count>208</Count>
+          <Count>216</Count>
         </Item>
       </Statistic>
       <Statistic Action="Hide">
@@ -572,7 +572,7 @@
           <IdeaActionID>HideAllWindows</IdeaActionID>
           <ShortCut>'⇧⌘F12'</ShortCut>
           <Description>Hide All Windows</Description>
-          <Count>184</Count>
+          <Count>187</Count>
         </Item>
       </Statistic>
       <Statistic Action="In Project">
@@ -650,7 +650,7 @@
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'⌘+1'</ShortCut>
           <Description>Project</Description>
-          <Count>12</Count>
+          <Count>13</Count>
         </Item>
       </Statistic>
       <Statistic Action="Project Structure...">
@@ -1005,6 +1005,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'ShlAssessmentsCommonTest.checkAssessmentResultEventCreated'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'ShlAssessmentsCommonTest.checkAssessmentResultEventCreated'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'Solution'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -1130,7 +1138,7 @@
           <IdeaActionID>HideAllWindows</IdeaActionID>
           <ShortCut>'⇧⌘F12'</ShortCut>
           <Description>Restore Windows</Description>
-          <Count>118</Count>
+          <Count>119</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -1153,7 +1161,7 @@
           <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
           <ShortCut>'⌘+4'</ShortCut>
           <Description>Run</Description>
-          <Count>36</Count>
+          <Count>37</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'All Tests'">
@@ -1327,6 +1335,14 @@
           <ShortCut>'⌃R'</ShortCut>
           <Description>Run 'SalaryDeltaApiTest.checkBasicDeltaApiPar...'</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'ShlAssessmentsCommonTest.checkAssessment...'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⌃R'</ShortCut>
+          <Description>Run 'ShlAssessmentsCommonTest.checkAssessment...'</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Solution'">
@@ -1803,7 +1819,15 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'ShlAssessmentsCommonTest.checkAssessmentResultDownload'</Description>
-          <Count>1</Count>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'ShlAssessmentsCommonTest.checkAssessmentResultEventCreated'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'ShlAssessmentsCommonTest.checkAssessmentResultEventCreated'</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'Solution'">
@@ -1963,7 +1987,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>580</Count>
+          <Count>582</Count>
         </Item>
       </Statistic>
       <Statistic Action="Type Declaration">
