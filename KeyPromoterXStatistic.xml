@@ -573,7 +573,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>GoTo</Description>
-          <Count>323</Count>
+          <Count>327</Count>
         </Item>
       </Statistic>
       <Statistic Action="Hide">
@@ -1027,6 +1027,14 @@
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'Said'</Description>
           <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'ShlAssessmentsCommonTest.checkAssessmentResultEventCreated (1)'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'ShlAssessmentsCommonTest.checkAssessmentResultEventCreated (1)'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'ShlAssessmentsCommonTest.checkAssessmentResultEventCreated'">
