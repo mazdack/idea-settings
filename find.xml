@@ -5,9 +5,8 @@
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*py" />
     <recentFileMasks>
-      <mask>*.h</mask>
-      <mask>*.python</mask>
       <mask>*.pytho</mask>
       <mask>*.pyth</mask>
       <mask>*.pyt</mask>
@@ -36,6 +35,8 @@
       <mask>*.jsp</mask>
       <mask>*.xsl</mask>
       <mask>*.py</mask>
+      <mask>*xsl</mask>
+      <mask>*py</mask>
     </recentFileMasks>
   </component>
 </application>
