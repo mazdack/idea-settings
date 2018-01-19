@@ -1,10 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Scratches and Consoles" />
-    <option name="defaultScopeName" value="Scratches and Consoles" />
-    <option name="SEARCH_SCOPE" value="Scratches and Consoles" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>*.pytho</mask>
       <mask>*.pyth</mask>
       <mask>*.pyt</mask>
       <mask>*.yaml</mask>
@@ -34,6 +33,7 @@
       <mask>*.py</mask>
       <mask>*xsl</mask>
       <mask>*py</mask>
+      <mask>*xml</mask>
     </recentFileMasks>
   </component>
 </application>
