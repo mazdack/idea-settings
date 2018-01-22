@@ -2,38 +2,8 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
+    <option name="regularExpressions" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <recentFileMasks>
-      <mask>*.pyth</mask>
-      <mask>*.pyt</mask>
-      <mask>*.yaml</mask>
-      <mask>*.yam</mask>
-      <mask>*.ya</mask>
-      <mask>*.y</mask>
-      <mask>*.ym;</mask>
-      <mask>*.ym</mask>
-      <mask>*.yml</mask>
-      <mask>*.xs</mask>
-      <mask>*.x</mask>
-      <mask>*.xml</mask>
-      <mask>.xml</mask>
-      <mask>p.xml</mask>
-      <mask>po.xml</mask>
-      <mask>pom.xml</mask>
-      <mask>*</mask>
-      <mask>*.java</mask>
-      <mask>*.jav</mask>
-      <mask>*.ja</mask>
-      <mask>*.j</mask>
-      <mask>*.p</mask>
-      <mask>*.</mask>
-      <mask>*.js</mask>
-      <mask>*.jsp</mask>
-      <mask>*.xsl</mask>
-      <mask>*.py</mask>
-      <mask>*xsl</mask>
-      <mask>*py</mask>
-      <mask>*xml</mask>
-    </recentFileMasks>
   </component>
 </application>
