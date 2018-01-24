@@ -845,6 +845,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'DemoApplication'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'DemoApplication'</Description>
+          <Count>13</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'EmployerResourceTest.name'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -1338,6 +1346,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'DemoApplication'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⌃R'</ShortCut>
+          <Description>Run 'DemoApplication'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'EmployerResourceTest'">
         <Item>
           <IdeaActionID>Run</IdeaActionID>
@@ -1780,6 +1796,14 @@
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'CountersDaoTest.incrementFailCounter'</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'DemoApplication'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'DemoApplication'</Description>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'EmployerResourceTest.name'">
