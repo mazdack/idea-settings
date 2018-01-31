@@ -6,7 +6,7 @@
           <IdeaActionID>Annotate</IdeaActionID>
           <ShortCut>'⌘+N'</ShortCut>
           <Description>Annotate</Description>
-          <Count>6</Count>
+          <Count>7</Count>
         </Item>
       </Statistic>
       <Statistic Action="Change Signature...">
@@ -2243,7 +2243,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>650</Count>
+          <Count>651</Count>
         </Item>
       </Statistic>
       <Statistic Action="Type Declaration">
