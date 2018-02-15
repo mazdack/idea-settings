@@ -652,7 +652,7 @@
           <IdeaActionID>HideAllWindows</IdeaActionID>
           <ShortCut>'⇧⌘F12'</ShortCut>
           <Description>Hide All Windows</Description>
-          <Count>200</Count>
+          <Count>201</Count>
         </Item>
       </Statistic>
       <Statistic Action="In Project">
@@ -2275,7 +2275,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>682</Count>
+          <Count>686</Count>
         </Item>
       </Statistic>
       <Statistic Action="Type Declaration">
