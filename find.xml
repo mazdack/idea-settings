@@ -19,5 +19,6 @@
     <mask>*Test.java</mask>
     <mask>*cql</mask>
     <mask>*js</mask>
+    <mask>*java</mask>
   </component>
 </application>
