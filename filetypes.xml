@@ -7,6 +7,7 @@
       <mapping pattern="data" type="PLAIN_TEXT" />
       <mapping pattern="smpp-gate-docker2" type="PLAIN_TEXT" />
       <mapping pattern="group_vars" type="PLAIN_TEXT" />
+      <mapping ext="j2" type="PLAIN_TEXT" />
       <mapping ext="bsh" type="PLAIN_TEXT" />
       <mapping ext="nab" type="PLAIN_TEXT" />
       <mapping ext="dev" type="PLAIN_TEXT" />
