@@ -1361,7 +1361,7 @@
           <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
           <ShortCut>'⌘+4'</ShortCut>
           <Description>Run</Description>
-          <Count>62</Count>
+          <Count>63</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'All Tests'">
@@ -1423,7 +1423,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'⌃R'</ShortCut>
           <Description>Run 'DemoApplication'</Description>
-          <Count>5</Count>
+          <Count>6</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'DemoApplicationTests.addFiveAndGetTwo'">
