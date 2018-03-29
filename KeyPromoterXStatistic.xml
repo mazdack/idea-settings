@@ -1,6 +1,14 @@
 <application>
   <component name="KeyPromoterXStatistic">
     <option name="statistics">
+      <Statistic Action="Add">
+        <Item>
+          <IdeaActionID>Git.Add</IdeaActionID>
+          <ShortCut>'⌥⌘A'</ShortCut>
+          <Description>Add</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Annotate">
         <Item>
           <IdeaActionID>Annotate</IdeaActionID>
@@ -668,7 +676,7 @@
           <IdeaActionID>HideAllWindows</IdeaActionID>
           <ShortCut>'⇧⌘F12'</ShortCut>
           <Description>Hide All Windows</Description>
-          <Count>206</Count>
+          <Count>209</Count>
         </Item>
       </Statistic>
       <Statistic Action="In Project">
@@ -1346,7 +1354,7 @@
           <IdeaActionID>HideAllWindows</IdeaActionID>
           <ShortCut>'⇧⌘F12'</ShortCut>
           <Description>Restore Windows</Description>
-          <Count>130</Count>
+          <Count>132</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
