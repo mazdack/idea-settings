@@ -684,7 +684,7 @@
           <IdeaActionID>HideAllWindows</IdeaActionID>
           <ShortCut>'⇧⌘F12'</ShortCut>
           <Description>Hide All Windows</Description>
-          <Count>212</Count>
+          <Count>213</Count>
         </Item>
       </Statistic>
       <Statistic Action="In Project">
@@ -1378,7 +1378,7 @@
           <IdeaActionID>HideAllWindows</IdeaActionID>
           <ShortCut>'⇧⌘F12'</ShortCut>
           <Description>Restore Windows</Description>
-          <Count>134</Count>
+          <Count>135</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -2467,7 +2467,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>711</Count>
+          <Count>714</Count>
         </Item>
       </Statistic>
       <Statistic Action="Type Declaration">
