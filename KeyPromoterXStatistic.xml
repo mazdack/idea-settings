@@ -2326,6 +2326,14 @@
           <Count>4</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'UserTargetingServiceTest.getUserTargetingApplicantTest'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'UserTargetingServiceTest.getUserTargetingApplicantTest'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'VacancyGraphResourceTest.testEventThrottling'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
