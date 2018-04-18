@@ -669,7 +669,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>GoTo</Description>
-          <Count>507</Count>
+          <Count>517</Count>
         </Item>
       </Statistic>
       <Statistic Action="Hide">
@@ -1258,6 +1258,14 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'UserTargetingServiceTest'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'UserTargetingServiceTest.getApplicantReturnNullGenderIfGenderUnknown'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'UserTargetingServiceTest.getApplicantReturnNullGenderIfGenderUnknown'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -2323,7 +2331,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'TestRunner'</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'Unnamed'">
