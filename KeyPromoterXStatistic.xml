@@ -669,7 +669,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>GoTo</Description>
-          <Count>612</Count>
+          <Count>619</Count>
         </Item>
       </Statistic>
       <Statistic Action="Hide">
@@ -987,6 +987,14 @@
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'ExaminatorControllerIntegTest'</Description>
           <Count>4</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'IndicatorsControllerTest'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'IndicatorsControllerTest'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'JettyLauncher'">
