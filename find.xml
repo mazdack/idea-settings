@@ -26,8 +26,8 @@
     <mask>*dto*</mask>
     <mask>*xhh*</mask>
     <mask>*java</mask>
-    <mask>*sql</mask>
     <mask>*py</mask>
     <mask>*xsl</mask>
+    <mask>*sql</mask>
   </component>
 </application>
