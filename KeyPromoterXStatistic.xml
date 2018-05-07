@@ -669,7 +669,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>GoTo</Description>
-          <Count>673</Count>
+          <Count>688</Count>
         </Item>
       </Statistic>
       <Statistic Action="Hide">
@@ -1275,6 +1275,14 @@
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'UserTargetingServiceTest.getApplicantReturnNullGenderIfGenderUnknown'</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'billing debug'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'billing debug'</Description>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'example app'">
@@ -1931,7 +1939,7 @@
           <IdeaActionID>StepOver</IdeaActionID>
           <ShortCut>'F8'</ShortCut>
           <Description>Step Over</Description>
-          <Count>11</Count>
+          <Count>18</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop">
@@ -2390,6 +2398,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'billing debug'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'billing debug'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'example app'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -2510,14 +2526,6 @@
           <Count>3</Count>
         </Item>
       </Statistic>
-      <Statistic Action="Toggle Line Breakpoint">
-        <Item>
-          <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
-          <ShortCut>'⌘F8'</ShortCut>
-          <Description>Toggle Line Breakpoint</Description>
-          <Count>741</Count>
-        </Item>
-      </Statistic>
       <Statistic Action="Type Declaration">
         <Item>
           <IdeaActionID>GotoTypeDeclaration</IdeaActionID>
@@ -2555,7 +2563,7 @@
           <IdeaActionID>ViewBreakpoints</IdeaActionID>
           <ShortCut>'⇧⌘F8'</ShortCut>
           <Description>View Breakpoints...</Description>
-          <Count>12</Count>
+          <Count>13</Count>
         </Item>
       </Statistic>
     </option>
@@ -2614,6 +2622,14 @@
           <ShortCut>'⌥F12'</ShortCut>
           <Description>Terminal</Description>
           <Count>15</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Toggle Line Breakpoint">
+        <Item>
+          <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
+          <ShortCut>'⌘F8'</ShortCut>
+          <Description>Toggle Line Breakpoint</Description>
+          <Count>754</Count>
         </Item>
       </Statistic>
     </option>
