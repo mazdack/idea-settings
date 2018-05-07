@@ -1,12 +1,16 @@
 <application>
   <component name="AbbreviationManager">
     <abbreviations>
-      <action id="$LRU" />
-      <action id="RecentProjectListGroup">
-        <abbreviation name="open" />
-      </action>
       <action id="CloseProject">
         <abbreviation name="close" />
+      </action>
+      <action id="$LRU" />
+      <action id="Rerun">
+        <abbreviation name="rr" />
+      </action>
+      <action id="ChooseRunConfiguration" />
+      <action id="RecentProjectListGroup">
+        <abbreviation name="open" />
       </action>
       <action id="ImportProject">
         <abbreviation name="new" />
