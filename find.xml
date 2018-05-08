@@ -27,7 +27,7 @@
     <mask>*xhh*</mask>
     <mask>*java</mask>
     <mask>*py</mask>
-    <mask>*xsl</mask>
     <mask>*sql</mask>
+    <mask>*xsl</mask>
   </component>
 </application>
