@@ -569,6 +569,14 @@
           <Count>8</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'whenSaveOneToOneRe...()'">
+        <Item>
+          <IdeaActionID>DebugClass</IdeaActionID>
+          <ShortCut>'⌃⇧D'</ShortCut>
+          <Description>Debug 'whenSaveOneToOneRe...()'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Delete...">
         <Item>
           <IdeaActionID>$Delete</IdeaActionID>
@@ -669,7 +677,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>GoTo</Description>
-          <Count>688</Count>
+          <Count>690</Count>
         </Item>
       </Statistic>
       <Statistic Action="Hide">
@@ -2340,6 +2348,14 @@
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'Solution'</Description>
           <Count>5</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'SpringDataRelationshipsTest.whenSaveOneToOneRelationship_thenCorrect'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'SpringDataRelationshipsTest.whenSaveOneToOneRelationship_thenCorrect'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'TaskManagerTest'">
