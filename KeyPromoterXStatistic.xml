@@ -677,7 +677,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>GoTo</Description>
-          <Count>707</Count>
+          <Count>708</Count>
         </Item>
       </Statistic>
       <Statistic Action="Hide">
@@ -1251,6 +1251,14 @@
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'Solution'</Description>
           <Count>27</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'SpringDataRelationshipsTest'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'SpringDataRelationshipsTest'</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'TaskManagerTest'">
@@ -2350,6 +2358,14 @@
           <Count>5</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'SpringDataRelationshipsTest'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'SpringDataRelationshipsTest'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'SpringDataRelationshipsTest.whenSaveOneToOneRelationship_thenCorrect'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -2579,7 +2595,7 @@
           <IdeaActionID>ViewBreakpoints</IdeaActionID>
           <ShortCut>'⇧⌘F8'</ShortCut>
           <Description>View Breakpoints...</Description>
-          <Count>13</Count>
+          <Count>14</Count>
         </Item>
       </Statistic>
     </option>
