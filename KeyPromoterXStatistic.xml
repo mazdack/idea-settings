@@ -613,7 +613,7 @@
           <IdeaActionID>EvaluateExpression</IdeaActionID>
           <ShortCut>'⌥F8'</ShortCut>
           <Description>Evaluate Expression...</Description>
-          <Count>125</Count>
+          <Count>126</Count>
         </Item>
       </Statistic>
       <Statistic Action="Exit Full Screen">
@@ -1275,6 +1275,14 @@
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'SpringDataRelationshipsTest'</Description>
           <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'SpringDataRelationshipsTest.testSaveIndicatorValue'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'SpringDataRelationshipsTest.testSaveIndicatorValue'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'SpringDataRelationshipsTest.whenSaveOneToManyRelationship_thenCorrect'">
