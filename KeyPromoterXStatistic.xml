@@ -613,7 +613,7 @@
           <IdeaActionID>EvaluateExpression</IdeaActionID>
           <ShortCut>'⌥F8'</ShortCut>
           <Description>Evaluate Expression...</Description>
-          <Count>128</Count>
+          <Count>131</Count>
         </Item>
       </Statistic>
       <Statistic Action="Exit Full Screen">
@@ -693,7 +693,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>GoTo</Description>
-          <Count>798</Count>
+          <Count>809</Count>
         </Item>
       </Statistic>
       <Statistic Action="Hide">
@@ -708,7 +708,7 @@
           <IdeaActionID>HideAllWindows</IdeaActionID>
           <ShortCut>'⇧⌘F12'</ShortCut>
           <Description>Hide All Windows</Description>
-          <Count>220</Count>
+          <Count>221</Count>
         </Item>
       </Statistic>
       <Statistic Action="In Project">
@@ -1995,7 +1995,7 @@
           <IdeaActionID>StepOver</IdeaActionID>
           <ShortCut>'F8'</ShortCut>
           <Description>Step Over</Description>
-          <Count>23</Count>
+          <Count>26</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop">
@@ -2651,7 +2651,7 @@
           <IdeaActionID>ViewBreakpoints</IdeaActionID>
           <ShortCut>'⇧⌘F8'</ShortCut>
           <Description>View Breakpoints...</Description>
-          <Count>14</Count>
+          <Count>15</Count>
         </Item>
       </Statistic>
     </option>
