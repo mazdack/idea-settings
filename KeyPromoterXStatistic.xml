@@ -1181,6 +1181,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'ProductPriceResourceTest.testGetProductPriceReturnsPriceForCorrectRegion'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'ProductPriceResourceTest.testGetProductPriceReturnsPriceForCorrectRegion'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'ResumeExperienceUpdaterTest.resumeExperienceUpdaterTest'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -2300,6 +2308,14 @@
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'PollsApplication'</Description>
           <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'ProductPriceResourceTest.testGetProductPriceReturnsPriceForCorrectRegion'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'ProductPriceResourceTest.testGetProductPriceReturnsPriceForCorrectRegion'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'ProductPriceResourceTest.testReource'">
