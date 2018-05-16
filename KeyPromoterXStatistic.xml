@@ -110,7 +110,7 @@
           <IdeaActionID>XDebugger.CopyValue</IdeaActionID>
           <ShortCut>'⌘C'</ShortCut>
           <Description>Copy Value</Description>
-          <Count>10</Count>
+          <Count>11</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug">
@@ -621,7 +621,7 @@
           <IdeaActionID>EvaluateExpression</IdeaActionID>
           <ShortCut>'⌥F8'</ShortCut>
           <Description>Evaluate Expression...</Description>
-          <Count>138</Count>
+          <Count>146</Count>
         </Item>
       </Statistic>
       <Statistic Action="Exit Full Screen">
@@ -2315,6 +2315,14 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'ProductPriceResourceTest.testGetProductPriceReturnsPriceForCorrectRegion'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'ProductPriceResourceTest.testGetProductPriceWhenHHAreaIsInsidePriceRegion'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'ProductPriceResourceTest.testGetProductPriceWhenHHAreaIsInsidePriceRegion'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
