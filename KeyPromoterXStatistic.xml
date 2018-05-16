@@ -1173,14 +1173,6 @@
           <Count>1</Count>
         </Item>
       </Statistic>
-      <Statistic Action="Rerun 'ProductPriceResourceTest'">
-        <Item>
-          <IdeaActionID>Rerun</IdeaActionID>
-          <ShortCut>'⌘R'</ShortCut>
-          <Description>Rerun 'ProductPriceResourceTest'</Description>
-          <Count>3</Count>
-        </Item>
-      </Statistic>
       <Statistic Action="Rerun 'ProductPriceResourceTest.testGetProductPriceReturnsPriceForCorrectRegion'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -2734,6 +2726,14 @@
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'ApiApplication'</Description>
           <Count>4</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'ProductPriceResourceTest'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'ProductPriceResourceTest'</Description>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'ProductPriceResourceTest.testGetProductPriceAreaIdInChildPriceRegion'">
