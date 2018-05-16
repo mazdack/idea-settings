@@ -577,6 +577,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'testGetProductPric...()'">
+        <Item>
+          <IdeaActionID>DebugClass</IdeaActionID>
+          <ShortCut>'⌃⇧D'</ShortCut>
+          <Description>Debug 'testGetProductPric...()'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'v2'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
@@ -693,14 +701,6 @@
           <ShortCut>'⇧⎋'</ShortCut>
           <Description>Hide</Description>
           <Count>10</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Hide All Windows">
-        <Item>
-          <IdeaActionID>HideAllWindows</IdeaActionID>
-          <ShortCut>'⇧⌘F12'</ShortCut>
-          <Description>Hide All Windows</Description>
-          <Count>222</Count>
         </Item>
       </Statistic>
       <Statistic Action="In Project">
@@ -1171,6 +1171,14 @@
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'PollsApplication'</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'ProductPriceResourceTest'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'ProductPriceResourceTest'</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'ResumeExperienceUpdaterTest.resumeExperienceUpdaterTest'">
@@ -2678,6 +2686,14 @@
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>GoTo</Description>
           <Count>895</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Hide All Windows">
+        <Item>
+          <IdeaActionID>HideAllWindows</IdeaActionID>
+          <ShortCut>'⇧⌘F12'</ShortCut>
+          <Description>Hide All Windows</Description>
+          <Count>223</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'ApiApplication'">
