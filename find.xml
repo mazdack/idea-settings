@@ -30,7 +30,7 @@
     <mask>*py</mask>
     <mask>*less</mask>
     <mask>*xsl</mask>
-    <mask>*java</mask>
     <mask>*Test.java</mask>
+    <mask>*java</mask>
   </component>
 </application>
