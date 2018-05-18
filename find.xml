@@ -30,7 +30,7 @@
     <mask>*Test.java</mask>
     <mask>*java</mask>
     <mask>*js</mask>
-    <mask>*xsl</mask>
     <mask>*py</mask>
+    <mask>*xsl</mask>
   </component>
 </application>
