@@ -1,22 +1,10 @@
 <application>
   <component name="com.intellij.ide.ui.customization.CustomActionsSchema">
-    <group value="CheckinProject" is_action="true" action_type="-1" position="6">
-      <path value="root" />
-      <path value="Touch Bar" />
-      <path value="TouchBarDefault" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
     <group value="FindUsages" is_action="true" action_type="-1" position="6">
       <path value="root" />
       <path value="Touch Bar" />
-      <path value="TouchBarDefault" />
-      <path value="TouchBarDefault_cmd" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="Vcs.UpdateProject" is_action="true" action_type="-1" position="5">
-      <path value="root" />
-      <path value="Touch Bar" />
-      <path value="TouchBarDefault" />
+      <path value="Default" />
+      <path value="Default with Cmd key" />
       <option name="myInitialPosition" value="-1" />
     </group>
     <group value="NavBarVcsGroup" is_group="true" action_type="-1" position="2">
@@ -39,8 +27,8 @@
     <group value="Forward" is_action="true" action_type="-1" position="1">
       <path value="root" />
       <path value="Touch Bar" />
-      <path value="TouchBarDefault" />
-      <path value="TouchBarDefault_cmd" />
+      <path value="Default" />
+      <path value="Default with Cmd key" />
       <option name="myInitialPosition" value="-1" />
     </group>
     <group value="OpenFile" is_action="true" action_type="-1" position="0">
@@ -58,15 +46,15 @@
     <group value="Back" is_action="true" action_type="-1" position="0">
       <path value="root" />
       <path value="Touch Bar" />
-      <path value="TouchBarDefault" />
-      <path value="TouchBarDefault_cmd" />
+      <path value="Default" />
+      <path value="Default with Cmd key" />
       <option name="myInitialPosition" value="-1" />
     </group>
     <group value="FindUsages" is_action="true" action_type="1" position="0">
       <path value="root" />
       <path value="Touch Bar" />
-      <path value="TouchBarDefault" />
-      <path value="TouchBarDefault_cmd" />
+      <path value="Default" />
+      <path value="Default with Cmd key" />
       <option name="myInitialPosition" value="-1" />
     </group>
     <group value="$LRU" is_group="true" action_type="1" position="2">
