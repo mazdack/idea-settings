@@ -473,6 +473,14 @@
           <Count>10</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'getUserDFPTargetin...()'">
+        <Item>
+          <IdeaActionID>DebugClass</IdeaActionID>
+          <ShortCut>'⌃⇧D'</ShortCut>
+          <Description>Debug 'getUserDFPTargetin...()'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'hhid debug'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
@@ -621,7 +629,7 @@
           <IdeaActionID>EvaluateExpression</IdeaActionID>
           <ShortCut>'⌥F8'</ShortCut>
           <Description>Evaluate Expression...</Description>
-          <Count>148</Count>
+          <Count>156</Count>
         </Item>
       </Statistic>
       <Statistic Action="Exit Full Screen">
@@ -1357,6 +1365,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'UserTargetingServiceTest.getUserDFPTargetingApplicantTest'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'UserTargetingServiceTest.getUserDFPTargetingApplicantTest'</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'billing debug'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -2027,7 +2043,7 @@
           <IdeaActionID>StepOver</IdeaActionID>
           <ShortCut>'F8'</ShortCut>
           <Description>Step Over</Description>
-          <Count>29</Count>
+          <Count>32</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop">
@@ -2524,6 +2540,14 @@
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'Unnamed'</Description>
           <Count>4</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'UserTargetingServiceTest.getUserDFPTargetingApplicantTest'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'UserTargetingServiceTest.getUserDFPTargetingApplicantTest'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'UserTargetingServiceTest.getUserTargetingApplicantTest'">
