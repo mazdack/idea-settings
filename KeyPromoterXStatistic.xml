@@ -478,7 +478,7 @@
           <IdeaActionID>DebugClass</IdeaActionID>
           <ShortCut>'⌃⇧D'</ShortCut>
           <Description>Debug 'getUserDFPTargetin...()'</Description>
-          <Count>1</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'hhid debug'">
@@ -1370,6 +1370,14 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'UserTargetingServiceTest.getUserDFPTargetingApplicantTest'</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'UserTargetingServiceTest.getUserDFPTargetingFiltersCities'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'UserTargetingServiceTest.getUserDFPTargetingFiltersCities'</Description>
           <Count>3</Count>
         </Item>
       </Statistic>
@@ -2550,6 +2558,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'UserTargetingServiceTest.getUserDFPTargetingFiltersCities'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'UserTargetingServiceTest.getUserDFPTargetingFiltersCities'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'UserTargetingServiceTest.getUserTargetingApplicantTest'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -2747,7 +2763,7 @@
           <IdeaActionID>ViewBreakpoints</IdeaActionID>
           <ShortCut>'⇧⌘F8'</ShortCut>
           <Description>View Breakpoints...</Description>
-          <Count>15</Count>
+          <Count>16</Count>
         </Item>
       </Statistic>
     </option>
