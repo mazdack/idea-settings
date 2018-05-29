@@ -2,7 +2,6 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="hh-logsender-kafka" type="PLAIN_TEXT" />
-      <mapping pattern="Dockerfile" type="PLAIN_TEXT" />
       <mapping pattern="smpp-gate-docker" type="PLAIN_TEXT" />
       <mapping pattern="upgrade-notes" type="PLAIN_TEXT" />
       <mapping pattern="data" type="PLAIN_TEXT" />
