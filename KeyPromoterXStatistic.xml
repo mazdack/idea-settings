@@ -837,6 +837,14 @@
           <Count>18</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'All in api'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'All in api'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'All in hh-smpp-gate'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -1027,6 +1035,14 @@
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'GetHistoryTest'</Description>
           <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'GetHistoryTest.testNewIndicator'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'GetHistoryTest.testNewIndicator'</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'GetHistoryTest.testReturnsHistoryForSpecifiedMonth'">
@@ -1561,7 +1577,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'All Tests'</Description>
-          <Count>1</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'All in hh-smpp-gate'">
@@ -1864,6 +1880,14 @@
           <Count>3</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'Tests in 'ru.mazdack.procrastinatorindicator.api''">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'Tests in 'ru.mazdack.procrastinatorindicator.api''</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'Tests in 'ru.spring.ripper.examinator''">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
@@ -1878,6 +1902,14 @@
           <ShortCut>'⌃R'</ShortCut>
           <Description>Run 'TheologyApplication'</Description>
           <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'Unittests in test'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'Unittests in test'</Description>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Unnamed'">
