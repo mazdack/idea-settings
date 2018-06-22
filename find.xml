@@ -23,12 +23,12 @@
     <mask>!*java,!*sql</mask>
     <mask>*dto*</mask>
     <mask>*xhh*</mask>
-    <mask>*sql</mask>
     <mask>*less</mask>
     <mask>*Test.java</mask>
-    <mask>*js</mask>
-    <mask>*py</mask>
     <mask>*java</mask>
+    <mask>*py</mask>
+    <mask>*js</mask>
+    <mask>*sql</mask>
     <mask>*xsl</mask>
   </component>
 </application>
