@@ -637,7 +637,7 @@
           <IdeaActionID>EvaluateExpression</IdeaActionID>
           <ShortCut>'⌥F8'</ShortCut>
           <Description>Evaluate Expression...</Description>
-          <Count>161</Count>
+          <Count>162</Count>
         </Item>
       </Statistic>
       <Statistic Action="Exit Full Screen">
@@ -882,14 +882,6 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'ArraysTest'</Description>
-          <Count>1</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Rerun 'AutoHrDaoTest.testGetStatistics'">
-        <Item>
-          <IdeaActionID>Rerun</IdeaActionID>
-          <ShortCut>'⌘R'</ShortCut>
-          <Description>Rerun 'AutoHrDaoTest.testGetStatistics'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -2878,6 +2870,14 @@
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'ApiApplication'</Description>
           <Count>4</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'AutoHrDaoTest.testGetStatistics'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'AutoHrDaoTest.testGetStatistics'</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'ProductPriceResourceTest'">
