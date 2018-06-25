@@ -829,6 +829,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Reformat with Prettier">
+        <Item>
+          <IdeaActionID>ReformatWithPrettierAction</IdeaActionID>
+          <ShortCut>'⌥⇧⌘P'</ShortCut>
+          <Description>Reformat with Prettier</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rename...">
         <Item>
           <IdeaActionID>RenameElement</IdeaActionID>
