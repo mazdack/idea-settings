@@ -12,7 +12,6 @@
     <mask>*.css</mask>
     <mask>*.mxml</mask>
     <mask>*.xsl</mask>
-    <mask>*.js</mask>
     <mask>*.py</mask>
     <mask>*.java</mask>
     <mask>*cql</mask>
@@ -35,5 +34,6 @@
     <mask>*config*</mask>
     <mask>*xml</mask>
     <mask>*employer*</mask>
+    <mask>*.js</mask>
   </component>
 </application>
