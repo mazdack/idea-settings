@@ -719,6 +719,14 @@
           <Count>10</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Implementation(s)">
+        <Item>
+          <IdeaActionID>GotoImplementation</IdeaActionID>
+          <ShortCut>'⌥⌘B' or '⌥⌘Button1 Click'</ShortCut>
+          <Description>Implementation(s)</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="In Project">
         <Item>
           <ShortCut>'⌘+P'</ShortCut>
@@ -1555,14 +1563,6 @@
           <ShortCut>'⇧⌘X' or '⌃⇧X'</ShortCut>
           <Description>Reset Task File</Description>
           <Count>2</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Restore Windows">
-        <Item>
-          <IdeaActionID>HideAllWindows</IdeaActionID>
-          <ShortCut>'⇧⌘F12'</ShortCut>
-          <Description>Restore Windows</Description>
-          <Count>148</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -2926,6 +2926,14 @@
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'v2'</Description>
           <Count>23</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Restore Windows">
+        <Item>
+          <IdeaActionID>HideAllWindows</IdeaActionID>
+          <ShortCut>'⇧⌘F12'</ShortCut>
+          <Description>Restore Windows</Description>
+          <Count>149</Count>
         </Item>
       </Statistic>
       <Statistic Action="Resume Program">
