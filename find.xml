@@ -15,7 +15,6 @@
     <mask>*cql</mask>
     <mask>*yaml</mask>
     <mask>logback*</mask>
-    <mask>*trans.sql</mask>
     <mask>*jspx</mask>
     <mask>!*java,!*sql</mask>
     <mask>*dto*</mask>
@@ -33,5 +32,6 @@
     <mask>*xml</mask>
     <mask>*employer*</mask>
     <mask>*.js</mask>
+    <mask>*trans.sql</mask>
   </component>
 </application>
