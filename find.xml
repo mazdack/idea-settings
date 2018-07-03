@@ -2,10 +2,12 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
+    <option name="localRegularExpressions" value="true" />
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
+    <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*java" />
+    <option name="FILE_MASK" value="*py" />
     <mask>*.html</mask>
     <mask>*.jsp</mask>
     <mask>*.xml</mask>
@@ -29,12 +31,12 @@
     <mask>*</mask>
     <mask>*xsl</mask>
     <mask>!*sql</mask>
-    <mask>*py</mask>
     <mask>*config*</mask>
     <mask>*xml</mask>
     <mask>*employer*</mask>
     <mask>*.js</mask>
     <mask>*trans.sql</mask>
     <mask>*java</mask>
+    <mask>*py</mask>
   </component>
 </application>
