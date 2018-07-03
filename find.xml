@@ -3,12 +3,9 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="localRegularExpressions" value="true" />
-    <option name="regularExpressions" value="true" />
-    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*py" />
-    <mask>*.html</mask>
+    <option name="FILE_MASK" value="*Controller.java" />
     <mask>*.jsp</mask>
     <mask>*.xml</mask>
     <mask>*.as</mask>
@@ -38,5 +35,6 @@
     <mask>*trans.sql</mask>
     <mask>*java</mask>
     <mask>*py</mask>
+    <mask>*Controller.java</mask>
   </component>
 </application>
