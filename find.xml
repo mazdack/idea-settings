@@ -5,6 +5,7 @@
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*xsl" />
     <mask>*.xml</mask>
     <mask>*.as</mask>
     <mask>*.css</mask>
@@ -24,7 +25,6 @@
     <mask>*sql</mask>
     <mask>*js</mask>
     <mask>*</mask>
-    <mask>*xsl</mask>
     <mask>!*sql</mask>
     <mask>*config*</mask>
     <mask>*xml</mask>
@@ -35,5 +35,6 @@
     <mask>*Controller.java</mask>
     <mask>*py</mask>
     <mask>!*log</mask>
+    <mask>*xsl</mask>
   </component>
 </application>
