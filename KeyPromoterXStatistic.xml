@@ -661,7 +661,7 @@
           <IdeaActionID>EvaluateExpression</IdeaActionID>
           <ShortCut>'⌥F8'</ShortCut>
           <Description>Evaluate Expression...</Description>
-          <Count>166</Count>
+          <Count>167</Count>
         </Item>
       </Statistic>
       <Statistic Action="Exit Full Screen">
@@ -1403,6 +1403,14 @@
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'SolutionTest (1)'</Description>
           <Count>5</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'SolutionTest (2)'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'SolutionTest (2)'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'SolutionTest'">
@@ -2636,6 +2644,14 @@
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'Solution'</Description>
           <Count>5</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'SolutionTest (3)'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'SolutionTest (3)'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'SpringDataRelationshipsTest'">
