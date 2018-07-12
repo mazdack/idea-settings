@@ -417,6 +417,30 @@
           <Count>3</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'SolutionTest]/[test-template:solution(int, int)]/[test-template-invocation:#1]'">
+        <Item>
+          <IdeaActionID>DebugClass</IdeaActionID>
+          <ShortCut>'⌃⇧D'</ShortCut>
+          <Description>Debug 'SolutionTest]/[test-template:solution(int, int)]/[test-template-invocation:#1]'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'SolutionTest]/[test-template:solution(int, int)]/[test-template-invocation:#3]'">
+        <Item>
+          <IdeaActionID>DebugClass</IdeaActionID>
+          <ShortCut>'⌃⇧D'</ShortCut>
+          <Description>Debug 'SolutionTest]/[test-template:solution(int, int)]/[test-template-invocation:#3]'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'SolutionTest]/[test-template:solution(int, int)]/[test-template-invocation:#5]'">
+        <Item>
+          <IdeaActionID>DebugClass</IdeaActionID>
+          <ShortCut>'⌃⇧D'</ShortCut>
+          <Description>Debug 'SolutionTest]/[test-template:solution(int, int)]/[test-template-invocation:#5]'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'TaskManagerTest.testCancelSche...'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
@@ -637,7 +661,7 @@
           <IdeaActionID>EvaluateExpression</IdeaActionID>
           <ShortCut>'⌥F8'</ShortCut>
           <Description>Evaluate Expression...</Description>
-          <Count>162</Count>
+          <Count>166</Count>
         </Item>
       </Statistic>
       <Statistic Action="Exit Full Screen">
@@ -1373,6 +1397,14 @@
           <Count>27</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'SolutionTest'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'SolutionTest'</Description>
+          <Count>9</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'SpringDataRelationshipsTest'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -1443,6 +1475,22 @@
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'UserTargetingServiceTest.getUserDFPTargetingFiltersCities'</Description>
           <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun '[engine:junit-jupiter]/[class:binaryGap.SolutionTest]/[test-template:solution(int, int)]/[test-template-invocation:#3]'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun '[engine:junit-jupiter]/[class:binaryGap.SolutionTest]/[test-template:solution(int, int)]/[test-template-invocation:#3]'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun '[engine:junit-jupiter]/[class:binaryGap.SolutionTest]/[test-template:solution(int, int)]/[test-template-invocation:#5]'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun '[engine:junit-jupiter]/[class:binaryGap.SolutionTest]/[test-template:solution(int, int)]/[test-template-invocation:#5]'</Description>
+          <Count>6</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'billing debug'">
@@ -2668,6 +2716,22 @@
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'VacancyGraphResourceTest.testEventThrottling'</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop '[engine:junit-jupiter]/[class:binaryGap.SolutionTest]/[test-template:solution(int, int)]/[test-template-invocation:#1]'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop '[engine:junit-jupiter]/[class:binaryGap.SolutionTest]/[test-template:solution(int, int)]/[test-template-invocation:#1]'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop '[engine:junit-jupiter]/[class:binaryGap.SolutionTest]/[test-template:solution(int, int)]/[test-template-invocation:#5]'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop '[engine:junit-jupiter]/[class:binaryGap.SolutionTest]/[test-template:solution(int, int)]/[test-template-invocation:#5]'</Description>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'as debug'">
