@@ -1,0 +1,7 @@
+<templateSet group="other">
+  <template name="pr" value="private static Stream&lt;Arguments&gt; provides() {&#10;    return Stream.of(&#10;        Arguments.of()&#10;    );&#10;}" shortcut="SPACE" description="provides" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+</templateSet>
