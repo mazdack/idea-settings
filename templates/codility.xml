@@ -1,0 +1,7 @@
+<templateSet group="codility">
+  <template name="s" value="    public int solution(int[] A) {&#10;        // write your code in Java SE 8&#10;    }" description="solution" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+</templateSet>
