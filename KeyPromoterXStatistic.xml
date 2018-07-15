@@ -441,6 +441,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'SolutionTest]/[test-template:solution(i…5BI, int)]/[test-template-invocation:#1]'">
+        <Item>
+          <IdeaActionID>DebugClass</IdeaActionID>
+          <ShortCut>'⌃⇧D'</ShortCut>
+          <Description>Debug 'SolutionTest]/[test-template:solution(i…5BI, int)]/[test-template-invocation:#1]'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'TaskManagerTest.testCancelSche...'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
@@ -1507,6 +1515,14 @@
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun '[engine:junit-jupiter]/[class:binaryGap.SolutionTest]/[test-template:solution(int, int)]/[test-template-invocation:#5]'</Description>
           <Count>6</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun '[engine:junit-jupiter]/[class:frogJmpl.SolutionTest]/[test-template:solution(int, %5BI, int)]/[test-template-invocation:#1]'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun '[engine:junit-jupiter]/[class:frogJmpl.SolutionTest]/[test-template:solution(int, %5BI, int)]/[test-template-invocation:#1]'</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'billing debug'">
@@ -2756,6 +2772,14 @@
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop '[engine:junit-jupiter]/[class:binaryGap.SolutionTest]/[test-template:solution(int, int)]/[test-template-invocation:#5]'</Description>
           <Count>4</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop '[engine:junit-jupiter]/[class:frogJmpl.SolutionTest]/[test-template:solution(int, %5BI, int)]/[test-template-invocation:#1]'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop '[engine:junit-jupiter]/[class:frogJmpl.SolutionTest]/[test-template:solution(int, %5BI, int)]/[test-template-invocation:#1]'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'as debug'">
