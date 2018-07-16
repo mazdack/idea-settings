@@ -5,7 +5,7 @@
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*py" />
+    <option name="FILE_MASK" value="*js" />
     <mask>*.xml</mask>
     <mask>*.as</mask>
     <mask>*.css</mask>
@@ -23,7 +23,6 @@
     <mask>*less</mask>
     <mask>*Test.java</mask>
     <mask>*sql</mask>
-    <mask>*js</mask>
     <mask>*</mask>
     <mask>!*sql</mask>
     <mask>*config*</mask>
@@ -36,5 +35,6 @@
     <mask>!*log</mask>
     <mask>*xsl</mask>
     <mask>*py</mask>
+    <mask>*js</mask>
   </component>
 </application>
