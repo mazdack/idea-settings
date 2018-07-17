@@ -1421,6 +1421,14 @@
           <Count>3</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'SolutionTest (4)'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'SolutionTest (4)'</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'SolutionTest'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -2668,6 +2676,14 @@
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'SolutionTest (3)'</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'SolutionTest (4)'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'SolutionTest (4)'</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'SpringDataRelationshipsTest'">
