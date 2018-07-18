@@ -1,12 +1,5 @@
 <application>
   <component name="com.intellij.ide.ui.customization.CustomActionsSchema">
-    <group value="FindUsages" is_action="true" action_type="-1" position="6">
-      <path value="root" />
-      <path value="Touch Bar" />
-      <path value="Default" />
-      <path value="Default with Cmd key" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
     <group value="NavBarVcsGroup" is_group="true" action_type="-1" position="2">
       <path value="root" />
       <path value="Navigation Bar Toolbar" />
@@ -43,6 +36,12 @@
       <path value="Toolbar Make Actions" />
       <option name="myInitialPosition" value="-1" />
     </group>
+    <group value="CompileDirty" is_action="true" action_type="-1" position="0">
+      <path value="root" />
+      <path value="Touch Bar" />
+      <path value="Default" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
     <group value="Back" is_action="true" action_type="-1" position="0">
       <path value="root" />
       <path value="Touch Bar" />
@@ -50,11 +49,21 @@
       <path value="Default with Cmd key" />
       <option name="myInitialPosition" value="-1" />
     </group>
+    <group value="CloseProject" is_action="true" action_type="1" position="0">
+      <path value="root" />
+      <path value="Touch Bar" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
     <group value="FindUsages" is_action="true" action_type="1" position="0">
       <path value="root" />
       <path value="Touch Bar" />
       <path value="Default" />
       <path value="Default with Cmd key" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group seperator="true" action_type="1" position="1">
+      <path value="root" />
+      <path value="Touch Bar" />
       <option name="myInitialPosition" value="-1" />
     </group>
     <group value="$LRU" is_group="true" action_type="1" position="2">
@@ -68,5 +77,6 @@
       <option name="myInitialPosition" value="-1" />
     </group>
     <action id="Annotate" icon="$USER_HOME$/Downloads/icon2.png" />
+    <action id="CloseProject" icon="$USER_HOME$/Downloads/close.png" />
   </component>
 </application>
