@@ -5,7 +5,7 @@
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*.xml</mask>
+    <option name="FILE_MASK" value="*sofea*" />
     <mask>*.as</mask>
     <mask>*.css</mask>
     <mask>*.mxml</mask>
@@ -35,5 +35,6 @@
     <mask>*less</mask>
     <mask>*xsl</mask>
     <mask>*js</mask>
+    <mask>*sofea*</mask>
   </component>
 </application>
