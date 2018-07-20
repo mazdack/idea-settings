@@ -3,7 +3,6 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*.as</mask>
     <mask>*.css</mask>
     <mask>*.mxml</mask>
     <mask>*.py</mask>
@@ -33,5 +32,6 @@
     <mask>*js</mask>
     <mask>*sofea*</mask>
     <mask>*.xsl</mask>
+    <mask>*.sql</mask>
   </component>
 </application>
