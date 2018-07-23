@@ -1045,6 +1045,14 @@
           <Count>4</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'DmpFeedTest'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'DmpFeedTest'</Description>
+          <Count>5</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'EmployerResourceTest.name'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -2340,6 +2348,14 @@
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'DemoApplication'</Description>
           <Count>7</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'DmpFeedTest'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'DmpFeedTest'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'EmployerResourceTest.name'">
