@@ -73,12 +73,19 @@
       <path value="Default" />
       <option name="myInitialPosition" value="-1" />
     </group>
+    <group value="CloseProjectsAction" is_action="true" action_type="1" position="6">
+      <path value="root" />
+      <path value="Touch Bar" />
+      <path value="Default" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
     <group value="Annotate" is_action="true" action_type="1" position="8">
       <path value="root" />
       <path value="Navigation Bar Toolbar" />
       <option name="myInitialPosition" value="-1" />
     </group>
     <action id="FrameSwitchAction" icon="$USER_HOME$/Downloads/image (5).png" />
+    <action id="CloseProjectsAction" icon="$USER_HOME$/Downloads/test.png" />
     <action id="Annotate" icon="$USER_HOME$/Downloads/icon2.png" />
     <action id="CloseProject" icon="$USER_HOME$/Downloads/image (4).png" />
   </component>
