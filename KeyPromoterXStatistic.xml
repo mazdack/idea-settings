@@ -585,6 +585,14 @@
           <Count>16</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'solution()'">
+        <Item>
+          <IdeaActionID>DebugClass</IdeaActionID>
+          <ShortCut>'⌃⇧D'</ShortCut>
+          <Description>Debug 'solution()'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'testDeleteMessage()'">
         <Item>
           <IdeaActionID>DebugClass</IdeaActionID>
@@ -1451,6 +1459,14 @@
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'SolutionTest.findMaximum'</Description>
           <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'SolutionTest.solution'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'SolutionTest.solution'</Description>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'SpringDataRelationshipsTest'">
