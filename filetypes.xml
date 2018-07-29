@@ -16,7 +16,6 @@
       <mapping ext="cfg" type="PLAIN_TEXT" />
       <mapping ext="dockerfile" type="PLAIN_TEXT" />
       <mapping ext="ru" type="PLAIN_TEXT" />
-      <mapping ext="tpl" type="PLAIN_TEXT" />
       <mapping ext="presto" type="SQL" />
       <mapping ext="cql" type="SQL" />
       <mapping ext="db" type="ThymeleafExpressions" />
