@@ -1565,6 +1565,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'app.mjs'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'app.mjs'</Description>
+          <Count>6</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'billing debug'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -1587,6 +1595,14 @@
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'exec:java'</Description>
           <Count>62</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'fixserver'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'fixserver'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'hhid debug'">
@@ -2836,6 +2852,14 @@
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop '[engine:junit-jupiter]/[class:frogJmpl.SolutionTest]/[test-template:solution(int, %5BI, int)]/[test-template-invocation:#1]'</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'app.mjs'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'app.mjs'</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'as debug'">
