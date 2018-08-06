@@ -80,9 +80,10 @@
       <path value="Navigation Bar Toolbar" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <action id="FrameSwitchAction" icon="$USER_HOME$/Downloads/image (5).png" />
+    <action id="FrameSwitchAction" icon="$USER_HOME$/Pictures/ideaIcons/actions/listFiles_dark@2x.png" />
     <action id="CloseProjectsAction" icon="$USER_HOME$/Downloads/test.png" />
+    <action id="Console.Jdbc.Execute" icon="$USER_HOME$/Pictures/ideaIcons/actions/execute_dark@2x.png" />
     <action id="Annotate" icon="$USER_HOME$/Downloads/icon2.png" />
-    <action id="CloseProject" icon="$USER_HOME$/Downloads/image (4).png" />
+    <action id="CloseProject" icon="$USER_HOME$/Pictures/ideaIcons/actions/closeNew@2x_dark.png" />
   </component>
 </application>
