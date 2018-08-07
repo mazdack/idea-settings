@@ -1621,6 +1621,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'index prod'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'index prod'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'index.js'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
