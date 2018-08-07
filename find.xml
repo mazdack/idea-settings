@@ -1,9 +1,11 @@
 <application>
   <component name="FindSettings">
+    <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
+    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*.css</mask>
+    <option name="FILE_MASK" value="*Resource.java" />
     <mask>*.mxml</mask>
     <mask>*.py</mask>
     <mask>*cql</mask>
@@ -33,5 +35,6 @@
     <mask>*.xsl</mask>
     <mask>*.js</mask>
     <mask>*.java</mask>
+    <mask>*Resource.java</mask>
   </component>
 </application>
