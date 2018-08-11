@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="hh-logsender-kafka" type="PLAIN_TEXT" />
       <mapping pattern="sites-enabled/audiobridge" type="PLAIN_TEXT" />
+      <mapping pattern="compareStrings" type="PLAIN_TEXT" />
       <mapping pattern="smpp-gate-docker" type="PLAIN_TEXT" />
       <mapping pattern="upgrade-notes" type="PLAIN_TEXT" />
       <mapping pattern="data" type="PLAIN_TEXT" />
