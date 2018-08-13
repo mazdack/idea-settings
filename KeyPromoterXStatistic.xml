@@ -1005,6 +1005,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'CareerBannersTest'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'CareerBannersTest'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'ChangeTypesVacancyTest.updateVacancyMetallicFromCard'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -2388,6 +2396,14 @@
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'Bootstrap'</Description>
           <Count>6</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'CareerBannersTest'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'CareerBannersTest'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'ChangeTypesVacancyTest.updateVacancyMetallicFromCard'">
