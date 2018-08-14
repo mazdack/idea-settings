@@ -5,7 +5,7 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*.mxml</mask>
+    <option name="FILE_MASK" value="*.html" />
     <mask>*.py</mask>
     <mask>*cql</mask>
     <mask>*yaml</mask>
@@ -35,5 +35,6 @@
     <mask>*.java</mask>
     <mask>*Resource.java</mask>
     <mask>*.js</mask>
+    <mask>*.html</mask>
   </component>
 </application>
