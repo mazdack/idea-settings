@@ -641,6 +641,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'testGetStatsForAll...()'">
+        <Item>
+          <IdeaActionID>DebugClass</IdeaActionID>
+          <ShortCut>'⌃⇧D'</ShortCut>
+          <Description>Debug 'testGetStatsForAll...()'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'v2'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
@@ -946,6 +954,14 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'AutoHrControlResourceTest'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'AutoHrServiceTest.testGetStatsForAllActionsHidesHiddenActions'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'AutoHrServiceTest.testGetStatsForAllActionsHidesHiddenActions'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -2363,6 +2379,14 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'AreaResourceTest'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'AutoHrServiceTest.testGetStatsForAllActionsHidesHiddenActions'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'AutoHrServiceTest.testGetStatsForAllActionsHidesHiddenActions'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
