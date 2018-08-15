@@ -834,7 +834,7 @@
           <IdeaActionID>$Paste</IdeaActionID>
           <ShortCut>'⌘V'</ShortCut>
           <Description>Paste</Description>
-          <Count>4</Count>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Paste from History...">
@@ -962,7 +962,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'AutoHrServiceTest.testGetStatsForAllActionsHidesHiddenActions'</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'BST'">
