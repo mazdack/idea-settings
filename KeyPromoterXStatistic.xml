@@ -701,7 +701,7 @@
           <IdeaActionID>EvaluateExpression</IdeaActionID>
           <ShortCut>'⌥F8'</ShortCut>
           <Description>Evaluate Expression...</Description>
-          <Count>201</Count>
+          <Count>202</Count>
         </Item>
       </Statistic>
       <Statistic Action="Exit Full Screen">
@@ -1195,6 +1195,30 @@
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'FixAdapter.New Order'</Description>
           <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'FixAdapter.New Order.Test Prod'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'FixAdapter.New Order.Test Prod'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'FixAdapter.New Order.Test Prod.send Order Status Reques'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'FixAdapter.New Order.Test Prod.send Order Status Reques'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'FixAdapter.New Order.Test Prod.should receive ExecutionReport if all is ok'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'FixAdapter.New Order.Test Prod.should receive ExecutionReport if all is ok'</Description>
+          <Count>6</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'FixAdapter.New Order.test prod'">
@@ -2596,6 +2620,14 @@
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'FixAdapter.New Order'</Description>
           <Count>4</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'FixAdapter.New Order.Test Prod.should receive ExecutionReport if all is ok'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'FixAdapter.New Order.Test Prod.should receive ExecutionReport if all is ok'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'FixAdapter.New Order.test prod'">
