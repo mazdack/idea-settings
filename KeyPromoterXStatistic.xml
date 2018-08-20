@@ -1210,7 +1210,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'FixAdapter.New Order.Test Prod'</Description>
-          <Count>3</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'FixAdapter.New Order.Test Prod.send Order Status Reques'">
@@ -1219,6 +1219,14 @@
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'FixAdapter.New Order.Test Prod.send Order Status Reques'</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'FixAdapter.New Order.Test Prod.should receive BusinessMessageReject if same id'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'FixAdapter.New Order.Test Prod.should receive BusinessMessageReject if same id'</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'FixAdapter.New Order.Test Prod.should receive ExecutionReport if all is ok'">
@@ -2643,7 +2651,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'FixAdapter.New Order.Test Prod'</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'FixAdapter.New Order.Test Prod.should receive ExecutionReport if all is ok'">
