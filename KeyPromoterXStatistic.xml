@@ -1186,7 +1186,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'FixAdapter'</Description>
-          <Count>14</Count>
+          <Count>15</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'FixAdapter.New Order'">
@@ -1219,6 +1219,14 @@
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'FixAdapter.New Order.Test Prod.should receive ExecutionReport if all is ok'</Description>
           <Count>6</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'FixAdapter.New Order.Test Prod.should send logout message on disconnect'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'FixAdapter.New Order.Test Prod.should send logout message on disconnect'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'FixAdapter.New Order.test prod'">
