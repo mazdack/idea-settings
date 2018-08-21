@@ -73,7 +73,7 @@
       <path value="Touch Bar" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group seperator="true" action_type="1" position="1">
+    <group value="Plugin_ReactNative_Android_Refresh" is_action="true" action_type="1" position="1">
       <path value="root" />
       <path value="Touch Bar" />
       <path value="Default" />
@@ -91,7 +91,7 @@
       <path value="Navigation Bar Toolbar" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group seperator="true" action_type="1" position="2">
+    <group value="Plugin_ReactNative_Show" is_action="true" action_type="1" position="2">
       <path value="root" />
       <path value="Touch Bar" />
       <path value="Default" />
@@ -122,7 +122,13 @@
       <path value="Default" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="FrameSwitchAction" is_action="true" action_type="1" position="6">
+    <group seperator="true" action_type="1" position="6">
+      <path value="root" />
+      <path value="Touch Bar" />
+      <path value="Default" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group seperator="true" action_type="1" position="7">
       <path value="root" />
       <path value="Touch Bar" />
       <path value="Default" />
@@ -131,6 +137,12 @@
     <group value="Annotate" is_action="true" action_type="1" position="8">
       <path value="root" />
       <path value="Navigation Bar Toolbar" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="FrameSwitchAction" is_action="true" action_type="1" position="8">
+      <path value="root" />
+      <path value="Touch Bar" />
+      <path value="Default" />
       <option name="myInitialPosition" value="-1" />
     </group>
     <action id="FrameSwitchAction" icon="$USER_HOME$/Pictures/ideaIcons/actions/listFiles_dark@2x.png" />
