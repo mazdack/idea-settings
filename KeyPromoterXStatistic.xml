@@ -1226,7 +1226,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'FixAdapter'</Description>
-          <Count>22</Count>
+          <Count>24</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'FixAdapter.New Order'">
@@ -1283,6 +1283,14 @@
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'FixAdapter.New Order.test prod'</Description>
           <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'FixAdapter.Test Prod.should receive ExecutionReport if all is ok'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'FixAdapter.Test Prod.should receive ExecutionReport if all is ok'</Description>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'GetHistoryTest'">
@@ -2731,7 +2739,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'FixAdapter'</Description>
-          <Count>11</Count>
+          <Count>12</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'FixAdapter.New Order'">
@@ -2780,6 +2788,14 @@
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'FixAdapter.New Order.test prod'</Description>
           <Count>7</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'FixAdapter.Test Prod.should receive ExecutionReport if all is ok'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'FixAdapter.Test Prod.should receive ExecutionReport if all is ok'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'GetHistoryTest.testReturnsHistoryForSpecifiedMonth'">
