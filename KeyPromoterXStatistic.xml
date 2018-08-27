@@ -2670,6 +2670,14 @@
           <Count>6</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'CianTest.cianPriceFilter'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'CianTest.cianPriceFilter'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'CleanDanglingMessagesTaskTest'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
