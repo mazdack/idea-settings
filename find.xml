@@ -3,7 +3,6 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*cql</mask>
     <mask>*yaml</mask>
     <mask>logback*</mask>
     <mask>*jspx</mask>
@@ -33,5 +32,6 @@
     <mask>*.js</mask>
     <mask>*.py</mask>
     <mask>*.java</mask>
+    <mask>build.gradle</mask>
   </component>
 </application>
