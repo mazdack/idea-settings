@@ -1234,7 +1234,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'FixAdapter'</Description>
-          <Count>24</Count>
+          <Count>25</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'FixAdapter.New Order'">
@@ -1291,6 +1291,22 @@
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'FixAdapter.New Order.test prod'</Description>
           <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'FixAdapter.Test Prod.Connection tests'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'FixAdapter.Test Prod.Connection tests'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'FixAdapter.Test Prod.should leave order without fill'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'FixAdapter.Test Prod.should leave order without fill'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'FixAdapter.Test Prod.should receive ExecutionReport if all is ok'">
