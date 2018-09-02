@@ -917,6 +917,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rebuild '&lt;default&gt;'">
+        <Item>
+          <IdeaActionID>Compile</IdeaActionID>
+          <ShortCut>'⇧⌘F9'</ShortCut>
+          <Description>Rebuild '&lt;default&gt;'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Refactor This...">
         <Item>
           <IdeaActionID>Refactorings.QuickListPopupAction</IdeaActionID>
