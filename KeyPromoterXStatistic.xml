@@ -3158,6 +3158,14 @@
           <Count>7</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'ShlAssessmentsCriticalTest.inviteApplicantToAssessmentAndCheckTicketsAreSpent'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'ShlAssessmentsCriticalTest.inviteApplicantToAssessmentAndCheckTicketsAreSpent'</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'Solution (1)'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
