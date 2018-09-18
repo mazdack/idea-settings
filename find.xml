@@ -30,10 +30,10 @@
     <mask>build.gradle</mask>
     <mask>*.xsl</mask>
     <mask>*.yaml</mask>
-    <mask>*.less</mask>
     <mask>*.m</mask>
     <mask>*.js</mask>
     <mask>*.py</mask>
     <mask>*.java</mask>
+    <mask>*.less</mask>
   </component>
 </application>
