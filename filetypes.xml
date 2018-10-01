@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping ext="klib" type="ARCHIVE" />
       <mapping pattern="hh-logsender-kafka" type="PLAIN_TEXT" />
       <mapping pattern="sites-enabled/audiobridge" type="PLAIN_TEXT" />
       <mapping pattern="compareStrings" type="PLAIN_TEXT" />
@@ -12,8 +13,8 @@
       <mapping pattern="group_vars" type="PLAIN_TEXT" />
       <mapping ext="j2" type="PLAIN_TEXT" />
       <mapping ext="bsh" type="PLAIN_TEXT" />
-      <mapping ext="nab" type="PLAIN_TEXT" />
       <mapping ext="dev" type="PLAIN_TEXT" />
+      <mapping ext="nab" type="PLAIN_TEXT" />
       <mapping ext="cfg" type="PLAIN_TEXT" />
       <mapping ext="dockerfile" type="PLAIN_TEXT" />
       <mapping ext="ru" type="PLAIN_TEXT" />
