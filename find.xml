@@ -5,7 +5,6 @@
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>!*java,!*sql</mask>
     <mask>*dto*</mask>
     <mask>*xhh*</mask>
     <mask>*Test.java</mask>
@@ -31,9 +30,10 @@
     <mask>*.yaml</mask>
     <mask>*.m</mask>
     <mask>*.java</mask>
-    <mask>*.less</mask>
     <mask>*.py</mask>
     <mask>*.xsl</mask>
     <mask>*.js</mask>
+    <mask>*.less</mask>
+    <mask>*.jsx</mask>
   </component>
 </application>
