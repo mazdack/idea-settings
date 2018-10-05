@@ -978,7 +978,7 @@
           <IdeaActionID>UsageView.Rerun</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun</Description>
-          <Count>18</Count>
+          <Count>19</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'All in api'">
