@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="klib" type="ARCHIVE" />
+      <mapping pattern="Podfile" type="PLAIN_TEXT" />
       <mapping pattern="hh-logsender-kafka" type="PLAIN_TEXT" />
       <mapping pattern="sites-enabled/audiobridge" type="PLAIN_TEXT" />
       <mapping pattern="compareStrings" type="PLAIN_TEXT" />
