@@ -1,5 +1,15 @@
 <application>
   <component name="libraryTable">
+    <library name="@types/react" type="javaScript">
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="@types/react-native" type="javaScript">
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES />
+    </library>
     <library name="Python 2.7 (hh-backoffice venv) interpreter library">
       <CLASSES>
         <root url="file://$USER_HOME$/Projects/hh-backoffice/venv/lib/python2.7" />
