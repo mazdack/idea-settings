@@ -1549,6 +1549,14 @@
           <Count>5</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'OffsetJumper'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'OffsetJumper'</Description>
+          <Count>4</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'PollsApplication'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -3068,6 +3076,14 @@
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'NotesTest.testExtraAccountNotesTtl'</Description>
           <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'OffsetJumper'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'OffsetJumper'</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'OldPriceShlAssessmentsCriticalTest and 6 more'">
