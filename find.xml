@@ -5,7 +5,7 @@
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.jsx" />
+    <option name="FILE_MASK" value="*.java" />
     <mask>*xhh*</mask>
     <mask>*Test.java</mask>
     <mask>*sql</mask>
@@ -31,10 +31,10 @@
     <mask>*.m</mask>
     <mask>*.xsl</mask>
     <mask>*.less</mask>
-    <mask>*.java</mask>
     <mask>*.js</mask>
     <mask>1</mask>
     <mask>*.py</mask>
     <mask>*.jsx</mask>
+    <mask>*.java</mask>
   </component>
 </application>
