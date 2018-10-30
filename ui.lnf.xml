@@ -7,7 +7,7 @@
     <option name="ANIMATE_WINDOWS" value="false" />
     <option name="CLOSE_NON_MODIFIED_FILES_FIRST" value="true" />
     <option name="EDITOR_TAB_LIMIT" value="15" />
-    <option name="EDITOR_TAB_PLACEMENT" value="4" />
+    <option name="EDITOR_TAB_PLACEMENT" value="0" />
     <option name="FONT_FACE" value=".SF NS Text" />
     <option name="FONT_SCALE" value="1.0" />
     <option name="FONT_SIZE" value="14" />
@@ -18,6 +18,7 @@
     <option name="MOVE_MOUSE_ON_DEFAULT_BUTTON" value="true" />
     <option name="OVERRIDE_NONIDEA_LAF_FONTS" value="true" />
     <option name="RIGHT_HORIZONTAL_SPLIT" value="true" />
+    <option name="SHOW_EDITOR_TOOLTIP" value="false" />
     <option name="SHOW_MEMORY_INDICATOR" value="true" />
     <option name="SHOW_NAVIGATION_BAR" value="false" />
     <option name="SHOW_STATUS_BAR" value="false" />
