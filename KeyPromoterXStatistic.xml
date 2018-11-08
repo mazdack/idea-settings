@@ -2575,6 +2575,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'testMarkAsUserDeli...()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'testMarkAsUserDeli...()'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'testOutOfRequestSc...()'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
