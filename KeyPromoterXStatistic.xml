@@ -3318,6 +3318,14 @@
           <Count>9</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'Test'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'Test'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'TestRunner'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -3460,6 +3468,14 @@
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'hhid debug'</Description>
           <Count>4</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'iOS'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'iOS'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'index prod'">
