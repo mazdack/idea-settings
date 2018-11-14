@@ -30,8 +30,8 @@
     <mask>*.sql</mask>
     <mask>*.jsx</mask>
     <mask>*.xsl</mask>
-    <mask>*.js</mask>
     <mask>*.less</mask>
     <mask>*.py</mask>
+    <mask>*.js</mask>
   </component>
 </application>
