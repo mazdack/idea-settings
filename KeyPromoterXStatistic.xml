@@ -2583,6 +2583,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'testLanguageSwitchOption()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'testLanguageSwitchOption()'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'testMarkAsUserDeli...()'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
