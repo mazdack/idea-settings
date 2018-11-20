@@ -2053,6 +2053,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Restore Default Layout">
+        <Item>
+          <IdeaActionID>RestoreDefaultLayout</IdeaActionID>
+          <ShortCut>'⇧F12'</ShortCut>
+          <Description>Restore Default Layout</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Revert...">
         <Item>
           <IdeaActionID>ChangesView.Revert</IdeaActionID>
