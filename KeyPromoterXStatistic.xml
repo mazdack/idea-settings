@@ -529,6 +529,14 @@
           <Count>3</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'employeeReportByBaseFilters()'">
+        <Item>
+          <IdeaActionID>DebugClass</IdeaActionID>
+          <ShortCut>'⌃⇧D'</ShortCut>
+          <Description>Debug 'employeeReportByBaseFilters()'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'ex3'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
@@ -757,7 +765,7 @@
           <IdeaActionID>EvaluateExpression</IdeaActionID>
           <ShortCut>'⌥F8'</ShortCut>
           <Description>Evaluate Expression...</Description>
-          <Count>213</Count>
+          <Count>219</Count>
         </Item>
       </Statistic>
       <Statistic Action="Exit Full Screen">
@@ -844,7 +852,7 @@
           <IdeaActionID>GotoImplementation</IdeaActionID>
           <ShortCut>'⌥⌘B' or '⌥⌘Button1 Click'</ShortCut>
           <Description>Implementation(s)</Description>
-          <Count>2</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="In Project">
@@ -1603,6 +1611,14 @@
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'Said'</Description>
           <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'SalaryStatEmployeesReportTest.employeeReportByBaseFilters'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'SalaryStatEmployeesReportTest.employeeReportByBaseFilters'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'ShlAssessmentsCommonTest.checkAssessmentResultEventCreated (1)'">
@@ -2675,7 +2691,7 @@
           <IdeaActionID>StepInto</IdeaActionID>
           <ShortCut>'F7'</ShortCut>
           <Description>Step Into</Description>
-          <Count>8</Count>
+          <Count>10</Count>
         </Item>
       </Statistic>
       <Statistic Action="Step Into My Code">
@@ -2699,7 +2715,7 @@
           <IdeaActionID>StepOver</IdeaActionID>
           <ShortCut>'F8'</ShortCut>
           <Description>Step Over</Description>
-          <Count>35</Count>
+          <Count>53</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop">
@@ -3691,7 +3707,7 @@
           <IdeaActionID>ViewBreakpoints</IdeaActionID>
           <ShortCut>'⇧⌘F8'</ShortCut>
           <Description>View Breakpoints...</Description>
-          <Count>20</Count>
+          <Count>21</Count>
         </Item>
       </Statistic>
     </option>

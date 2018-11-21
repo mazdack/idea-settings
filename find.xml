@@ -26,12 +26,12 @@
     <mask>*.yaml</mask>
     <mask>*.m</mask>
     <mask>1</mask>
-    <mask>*.java</mask>
     <mask>*.sql</mask>
     <mask>*.jsx</mask>
     <mask>*.xsl</mask>
     <mask>*.less</mask>
     <mask>*.py</mask>
     <mask>*.js</mask>
+    <mask>*.java</mask>
   </component>
 </application>
