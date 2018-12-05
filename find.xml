@@ -32,7 +32,7 @@
     <mask>*.js</mask>
     <mask>*.java</mask>
     <mask>*.xsl</mask>
-    <mask>*.jsx</mask>
     <mask>*.py</mask>
+    <mask>*.jsx</mask>
   </component>
 </application>
