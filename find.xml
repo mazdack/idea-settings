@@ -4,7 +4,7 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="WITH_SUBDIRECTORIES" value="false" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.jsx" />
+    <option name="FILE_MASK" value="*Controller.java" />
     <mask>*xhh*</mask>
     <mask>*Test.java</mask>
     <mask>*sql</mask>
@@ -15,7 +15,6 @@
     <mask>*employer*</mask>
     <mask>*trans.sql</mask>
     <mask>*java</mask>
-    <mask>*Controller.java</mask>
     <mask>!*log</mask>
     <mask>*py</mask>
     <mask>*less</mask>
@@ -35,5 +34,6 @@
     <mask>*.xsl</mask>
     <mask>*.py</mask>
     <mask>*.jsx</mask>
+    <mask>*Controller.java</mask>
   </component>
 </application>
