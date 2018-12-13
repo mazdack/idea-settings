@@ -1781,6 +1781,14 @@
           <Count>18</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'TmsImportTest'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'TmsImportTest'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'Unnamed'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -3404,6 +3412,14 @@
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'TestRunner'</Description>
           <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'TmsImportTest'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'TmsImportTest'</Description>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'Unnamed'">
