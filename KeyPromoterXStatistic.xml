@@ -118,7 +118,7 @@
           <IdeaActionID>CopyReference</IdeaActionID>
           <ShortCut>'⌥⇧⌘C'</ShortCut>
           <Description>Copy Relative Path</Description>
-          <Count>10</Count>
+          <Count>11</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy Value">
@@ -1829,6 +1829,14 @@
           <Count>3</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'VacancyConstructorUploadImageTest.createTemplateDraftTest'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'VacancyConstructorUploadImageTest.createTemplateDraftTest'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun '[engine:junit-jupiter]/[class:binaryGap.SolutionTest]/[test-template:solution(int, int)]/[test-template-invocation:#3]'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -2742,14 +2750,6 @@
           <Count>2</Count>
         </Item>
       </Statistic>
-      <Statistic Action="Step Over">
-        <Item>
-          <IdeaActionID>StepOver</IdeaActionID>
-          <ShortCut>'F8'</ShortCut>
-          <Description>Step Over</Description>
-          <Count>55</Count>
-        </Item>
-      </Statistic>
       <Statistic Action="Stop">
         <Item>
           <IdeaActionID>RunDashboard.Stop</IdeaActionID>
@@ -3454,6 +3454,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'VacancyConstructorUploadImageTest.createTemplateDraftTest'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'VacancyConstructorUploadImageTest.createTemplateDraftTest'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'VacancyGraphResourceTest.testEventThrottling'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -3771,7 +3779,7 @@
           <IdeaActionID>ViewBreakpoints</IdeaActionID>
           <ShortCut>'⇧⌘F8'</ShortCut>
           <Description>View Breakpoints...</Description>
-          <Count>22</Count>
+          <Count>23</Count>
         </Item>
       </Statistic>
     </option>
@@ -3894,6 +3902,14 @@
           <ShortCut>'⌥⌘R' or 'F9'</ShortCut>
           <Description>Resume Program</Description>
           <Count>454</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Step Over">
+        <Item>
+          <IdeaActionID>StepOver</IdeaActionID>
+          <ShortCut>'F8'</ShortCut>
+          <Description>Step Over</Description>
+          <Count>65</Count>
         </Item>
       </Statistic>
       <Statistic Action="Terminal">
