@@ -1837,11 +1837,27 @@
           <Count>3</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'VacancyConstructorUploadImageTest'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'VacancyConstructorUploadImageTest'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'VacancyConstructorUploadImageTest.createTemplateDraftTest'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'VacancyConstructorUploadImageTest.createTemplateDraftTest'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'VacancyConstructorUploadImageTest.uploadTopImage'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'VacancyConstructorUploadImageTest.uploadTopImage'</Description>
           <Count>2</Count>
         </Item>
       </Statistic>
@@ -3468,6 +3484,14 @@
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'VacancyConstructorUploadImageTest.createTemplateDraftTest'</Description>
           <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'VacancyConstructorUploadImageTest.uploadTopImage'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'VacancyConstructorUploadImageTest.uploadTopImage'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'VacancyGraphResourceTest.testEventThrottling'">
