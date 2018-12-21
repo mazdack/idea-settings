@@ -765,7 +765,7 @@
           <IdeaActionID>EvaluateExpression</IdeaActionID>
           <ShortCut>'⌥F8'</ShortCut>
           <Description>Evaluate Expression...</Description>
-          <Count>235</Count>
+          <Count>236</Count>
         </Item>
       </Statistic>
       <Statistic Action="Exit Full Screen">
@@ -1834,7 +1834,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'VacancyConstructorUploadImageTest.createTemplateDraftTest'</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun '[engine:junit-jupiter]/[class:binaryGap.SolutionTest]/[test-template:solution(int, int)]/[test-template-invocation:#3]'">
