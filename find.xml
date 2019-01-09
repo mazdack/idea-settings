@@ -34,7 +34,7 @@
     <mask>*Controller.java</mask>
     <mask>*.py</mask>
     <mask>*.xsl</mask>
-    <mask>*.java</mask>
     <mask>*.jsx</mask>
+    <mask>*.java</mask>
   </component>
 </application>
