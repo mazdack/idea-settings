@@ -17,9 +17,14 @@
   <action id="Console.Jdbc.Close">
     <keyboard-shortcut first-keystroke="shift ctrl f4" />
   </action>
+  <action id="DatabaseView.PropertiesAction" />
   <action id="FileStructurePopup">
     <keyboard-shortcut first-keystroke="meta f12" />
     <keyboard-shortcut first-keystroke="shift meta s" />
+  </action>
+  <action id="FindUsages">
+    <keyboard-shortcut first-keystroke="alt f7" />
+    <keyboard-shortcut first-keystroke="meta i" />
   </action>
   <action id="FrameSwitchAction">
     <keyboard-shortcut first-keystroke="alt f2" />
