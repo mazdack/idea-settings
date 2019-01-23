@@ -1869,6 +1869,14 @@
           <Count>3</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'VacancyConstructorApplyTemplateTest.applyTemplateToVacancy'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'VacancyConstructorApplyTemplateTest.applyTemplateToVacancy'</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'VacancyConstructorCreateNewTemplateTest.imageUploadRemovesDraftStatus'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -3548,6 +3556,14 @@
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'UserTargetingServiceTest.getUserTargetingApplicantTest'</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'VacancyConstructorApplyTemplateTest.applyTemplateToVacancy'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'VacancyConstructorApplyTemplateTest.applyTemplateToVacancy'</Description>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'VacancyConstructorTemplatesListTest'">
