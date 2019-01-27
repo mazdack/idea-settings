@@ -3646,6 +3646,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'ZeroOne'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'ZeroOne'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop '[engine:junit-jupiter]/[class:binaryGap.SolutionTest]/[test-template:solution(int, int)]/[test-template-invocation:#1]'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
