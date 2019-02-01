@@ -8,6 +8,7 @@
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="WITH_SUBDIRECTORIES" value="false" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.less" />
     <mask>*xhh*</mask>
     <mask>*Test.java</mask>
     <mask>*sql</mask>
@@ -29,7 +30,6 @@
     <mask>build.gradle</mask>
     <mask>*.m</mask>
     <mask>1</mask>
-    <mask>*.less</mask>
     <mask>*.js</mask>
     <mask>*Controller.java</mask>
     <mask>*.yaml</mask>
@@ -38,5 +38,6 @@
     <mask>*.java</mask>
     <mask>*.sql</mask>
     <mask>*.xsl</mask>
+    <mask>*.less</mask>
   </component>
 </application>
