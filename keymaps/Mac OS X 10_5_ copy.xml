@@ -17,7 +17,9 @@
   <action id="Console.Jdbc.Close">
     <keyboard-shortcut first-keystroke="shift ctrl f4" />
   </action>
+  <action id="Console.TableResult.CompareCells" />
   <action id="DatabaseView.PropertiesAction" />
+  <action id="Diff.ShowSettingsPopup" />
   <action id="FileStructurePopup">
     <keyboard-shortcut first-keystroke="meta f12" />
     <keyboard-shortcut first-keystroke="shift meta s" />
@@ -45,6 +47,10 @@
   <action id="Go To Tab #5">
     <keyboard-shortcut first-keystroke="ctrl 5" />
   </action>
+  <action id="GotoAction">
+    <keyboard-shortcut first-keystroke="shift meta d" />
+    <keyboard-shortcut first-keystroke="shift meta a" />
+  </action>
   <action id="GotoBookmark1" />
   <action id="GotoBookmark2" />
   <action id="GotoBookmark3" />
@@ -65,4 +71,6 @@
     <keyboard-shortcut first-keystroke="shift ctrl alt equals" />
     <keyboard-shortcut first-keystroke="shift ctrl alt add" />
   </action>
+  <action id="TagDocumentationNavigation" />
+  <action id="Uml.ShowDiff" />
 </keymap>
