@@ -6,6 +6,7 @@
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="WITH_SUBDIRECTORIES" value="false" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.py" />
     <mask>*xhh*</mask>
     <mask>*Test.java</mask>
     <mask>*sql</mask>
@@ -30,11 +31,11 @@
     <mask>*.js</mask>
     <mask>*Controller.java</mask>
     <mask>*.yaml</mask>
-    <mask>*.py</mask>
     <mask>*.jsx</mask>
     <mask>*.java</mask>
     <mask>*.sql</mask>
     <mask>*.less</mask>
     <mask>*.xsl</mask>
+    <mask>*.py</mask>
   </component>
 </application>
