@@ -33,7 +33,7 @@
     <mask>*.py</mask>
     <mask>*.jspx</mask>
     <mask>*.java</mask>
-    <mask>*.xsl</mask>
     <mask>*.js</mask>
+    <mask>*.xsl</mask>
   </component>
 </application>
