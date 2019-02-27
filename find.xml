@@ -28,10 +28,10 @@
     <mask>*.jsx</mask>
     <mask>*.sql</mask>
     <mask>*.less</mask>
-    <mask>*.py</mask>
     <mask>*.jspx</mask>
     <mask>*.java</mask>
     <mask>*.js</mask>
     <mask>*.xsl</mask>
+    <mask>*.py</mask>
   </component>
 </application>
