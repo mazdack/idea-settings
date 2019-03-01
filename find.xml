@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*Test.java</mask>
+    <option name="FILE_MASK" value="!*.py" />
     <mask>*sql</mask>
     <mask>*</mask>
     <mask>!*sql</mask>
@@ -33,5 +33,6 @@
     <mask>*.js</mask>
     <mask>*.xsl</mask>
     <mask>*.py</mask>
+    <mask>!*.py</mask>
   </component>
 </application>
