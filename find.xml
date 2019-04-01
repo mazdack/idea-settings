@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.py" />
+    <option name="FILE_MASK" value="*.js" />
     <mask>*</mask>
     <mask>!*sql</mask>
     <mask>*config*</mask>
@@ -31,8 +31,8 @@
     <mask>*.java</mask>
     <mask>*.xsl</mask>
     <mask>!*.py</mask>
-    <mask>*.js</mask>
     <mask>*Test.java</mask>
     <mask>*.py</mask>
+    <mask>*.js</mask>
   </component>
 </application>
