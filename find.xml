@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.xml" />
+    <option name="FILE_MASK" value="*.java" />
     <mask>!*sql</mask>
     <mask>*config*</mask>
     <mask>*xml</mask>
@@ -27,12 +27,12 @@
     <mask>*.sql</mask>
     <mask>*.less</mask>
     <mask>*.jspx</mask>
-    <mask>*.java</mask>
     <mask>!*.py</mask>
     <mask>*Test.java</mask>
     <mask>*.py</mask>
     <mask>*.xsl</mask>
     <mask>*.js</mask>
     <mask>*.xml</mask>
+    <mask>*.java</mask>
   </component>
 </application>
