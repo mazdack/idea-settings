@@ -1,13 +1,11 @@
 <application>
   <component name="FindSettings">
-    <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="localRegularExpressions" value="true" />
-    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.cql" />
+    <option name="FILE_MASK" value="*.xml" />
     <mask>*config*</mask>
     <mask>*xml</mask>
     <mask>*employer*</mask>
@@ -28,15 +26,15 @@
     <mask>*.yaml</mask>
     <mask>*.jsx</mask>
     <mask>*.sql</mask>
-    <mask>*.less</mask>
     <mask>*.jspx</mask>
     <mask>!*.py</mask>
     <mask>*Test.java</mask>
     <mask>*.py</mask>
     <mask>*.xsl</mask>
-    <mask>*.xml</mask>
     <mask>*.java</mask>
     <mask>*.js</mask>
     <mask>*.cql</mask>
+    <mask>*.less</mask>
+    <mask>*.xml</mask>
   </component>
 </application>
