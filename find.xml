@@ -30,10 +30,10 @@
     <mask>*Test.java</mask>
     <mask>*.xsl</mask>
     <mask>*.java</mask>
-    <mask>*.js</mask>
     <mask>*.cql</mask>
     <mask>*.less</mask>
     <mask>*.xml</mask>
     <mask>*.py</mask>
+    <mask>*.js</mask>
   </component>
 </application>
