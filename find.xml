@@ -1,7 +1,9 @@
 <application>
   <component name="FindSettings">
+    <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
+    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*config*</mask>
     <mask>*xml</mask>
@@ -30,8 +32,8 @@
     <mask>*.cql</mask>
     <mask>*.less</mask>
     <mask>*.xml</mask>
-    <mask>*.py</mask>
     <mask>*.js</mask>
+    <mask>*.py</mask>
     <mask>*.xsl</mask>
   </component>
 </application>
