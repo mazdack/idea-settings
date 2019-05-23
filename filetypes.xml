@@ -3,12 +3,12 @@
     <extensionMap>
       <mapping ext="klib" type="ARCHIVE" />
       <mapping pattern="Podfile" type="PLAIN_TEXT" />
-      <mapping pattern="upgrade-notes" type="PLAIN_TEXT" />
       <mapping pattern="hh-logsender-kafka" type="PLAIN_TEXT" />
       <mapping pattern="sites-enabled/audiobridge" type="PLAIN_TEXT" />
       <mapping pattern="compareStrings" type="PLAIN_TEXT" />
       <mapping pattern=".foreverignore" type="PLAIN_TEXT" />
       <mapping pattern="smpp-gate-docker" type="PLAIN_TEXT" />
+      <mapping pattern="upgrade-notes" type="PLAIN_TEXT" />
       <mapping pattern="data" type="PLAIN_TEXT" />
       <mapping pattern="audiobridge" type="PLAIN_TEXT" />
       <mapping pattern="smpp-gate-docker2" type="PLAIN_TEXT" />
@@ -16,6 +16,7 @@
       <mapping ext="j2" type="PLAIN_TEXT" />
       <mapping ext="bsh" type="PLAIN_TEXT" />
       <mapping ext="plist" type="PLAIN_TEXT" />
+      <mapping ext="jks" type="PLAIN_TEXT" />
       <mapping ext="dev" type="PLAIN_TEXT" />
       <mapping ext="nab" type="PLAIN_TEXT" />
       <mapping ext="cfg" type="PLAIN_TEXT" />
