@@ -4,7 +4,7 @@
       <option name="JAVA_DECLARATION" value="true" />
     </context>
   </template>
-  <template name="pf" value="private final $END$;" description="private final" toReformat="true" toShortenFQNames="true">
+  <template name="pf" value="private final $END$;" shortcut="SPACE" description="private final" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="JAVA_DECLARATION" value="true" />
     </context>
