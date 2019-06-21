@@ -1,11 +1,5 @@
 <application>
   <component name="com.intellij.ide.ui.customization.CustomActionsSchema">
-    <group seperator="true" action_type="-1" position="6">
-      <path value="root" />
-      <path value="Touch Bar" />
-      <path value="Default" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
     <group value="NavBarVcsGroup" is_group="true" action_type="-1" position="2">
       <path value="root" />
       <path value="Navigation Bar Toolbar" />
@@ -14,26 +8,6 @@
     <group value="SaveAll" is_action="true" action_type="-1" position="1">
       <path value="root" />
       <path value="Main Toolbar" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="CompileDirty" is_action="true" action_type="-1" position="1">
-      <path value="root" />
-      <path value="Touch Bar" />
-      <path value="Default" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="CheckinProject" is_action="true" action_type="-1" position="1">
-      <path value="root" />
-      <path value="Touch Bar" />
-      <path value="Default" />
-      <path value="Optional Actions" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="Forward" is_action="true" action_type="-1" position="1">
-      <path value="root" />
-      <path value="Touch Bar" />
-      <path value="Default" />
-      <path value="Default with Cmd key" />
       <option name="myInitialPosition" value="-1" />
     </group>
     <group value="OpenFile" is_action="true" action_type="-1" position="0">
@@ -48,78 +22,14 @@
       <path value="Toolbar Make Actions" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="Vcs.UpdateProject" is_action="true" action_type="-1" position="0">
-      <path value="root" />
-      <path value="Touch Bar" />
-      <path value="Default" />
-      <path value="Optional Actions" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="Back" is_action="true" action_type="-1" position="0">
-      <path value="root" />
-      <path value="Touch Bar" />
-      <path value="Default" />
-      <path value="Default with Cmd key" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group seperator="true" action_type="1" position="0">
-      <path value="root" />
-      <path value="Touch Bar" />
-      <path value="Default" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="FindUsages" is_action="true" action_type="1" position="0">
-      <path value="root" />
-      <path value="Touch Bar" />
-      <path value="Default" />
-      <path value="Default with Cmd key" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group seperator="true" action_type="1" position="1">
-      <path value="root" />
-      <path value="Touch Bar" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="FrameSwitchAction" is_action="true" action_type="1" position="1">
-      <path value="root" />
-      <path value="Touch Bar" />
-      <path value="Default" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="CloseProject" is_action="true" action_type="1" position="1">
-      <path value="root" />
-      <path value="Touch Bar" />
-      <path value="Default" />
-      <path value="Default with Alt key" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
     <group value="$LRU" is_group="true" action_type="1" position="2">
       <path value="root" />
       <path value="Navigation Bar Toolbar" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="CloseProjectsAction" is_action="true" action_type="1" position="2">
-      <path value="root" />
-      <path value="Touch Bar" />
-      <path value="Default" />
-      <path value="Default with Alt key" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
     <group value="Annotate" is_action="true" action_type="1" position="8">
       <path value="root" />
       <path value="Navigation Bar Toolbar" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="ToggleBookmark" is_action="true" action_type="1" position="8">
-      <path value="root" />
-      <path value="Touch Bar" />
-      <path value="Default" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="ShowBookmarks" is_action="true" action_type="1" position="9">
-      <path value="root" />
-      <path value="Touch Bar" />
-      <path value="Default" />
       <option name="myInitialPosition" value="-1" />
     </group>
     <action id="FrameSwitchAction" icon="$USER_HOME$/Pictures/ideaIcons/actions/listFiles_dark@2x.png" />

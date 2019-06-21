@@ -1,0 +1,12 @@
+<templateSet group="plain">
+  <template name="ps" value="private String" description="private String" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_DECLARATION" value="true" />
+    </context>
+  </template>
+  <template name="pf" value="private final $END$;" shortcut="SPACE" description="private final" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_DECLARATION" value="true" />
+    </context>
+  </template>
+</templateSet>
