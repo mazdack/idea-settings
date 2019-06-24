@@ -32,8 +32,8 @@
     <mask>*.js</mask>
     <mask>*.py</mask>
     <mask>*.java</mask>
-    <mask>*.less</mask>
     <mask>*.sql</mask>
     <mask>*.xsl</mask>
+    <mask>*.less</mask>
   </component>
 </application>
