@@ -5,7 +5,7 @@
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.xsl" />
+    <option name="FILE_MASK" value="*.less" />
     <mask>*config*</mask>
     <mask>*xml</mask>
     <mask>*employer*</mask>
@@ -34,7 +34,7 @@
     <mask>*.js</mask>
     <mask>*.py</mask>
     <mask>*.java</mask>
-    <mask>*.less</mask>
     <mask>*.xsl</mask>
+    <mask>*.less</mask>
   </component>
 </application>
