@@ -5,6 +5,7 @@
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.sql" />
     <mask>*config*</mask>
     <mask>*xml</mask>
     <mask>*employer*</mask>
@@ -24,7 +25,6 @@
     <mask>*Controller.java</mask>
     <mask>*.yaml</mask>
     <mask>*.jsx</mask>
-    <mask>*.sql</mask>
     <mask>*.jspx</mask>
     <mask>!*.py</mask>
     <mask>*Test.java</mask>
@@ -35,5 +35,6 @@
     <mask>*.java</mask>
     <mask>*.xsl</mask>
     <mask>*.less</mask>
+    <mask>*.sql</mask>
   </component>
 </application>
