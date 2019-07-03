@@ -2,7 +2,6 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="klib" type="ARCHIVE" />
-      <mapping pattern="README.md" type="Markdown" />
       <mapping pattern="hh-logsender-kafka" type="PLAIN_TEXT" />
       <mapping pattern="smpp-gate-docker2" type="PLAIN_TEXT" />
       <mapping pattern="upgrade-notes" type="PLAIN_TEXT" />
@@ -34,6 +33,7 @@
       <removed_mapping ext="jsx" approved="true" type="JavaScript" />
       <removed_mapping pattern="README.md" approved="true" type="PLAIN_TEXT" />
       <mapping ext="db" type="ThymeleafExpressions" />
+      <mapping pattern="README.md" type="Markdown" />
     </extensionMap>
   </component>
 </application>
