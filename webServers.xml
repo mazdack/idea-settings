@@ -1,0 +1,14 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="cf12d87f-62b6-4407-ad6a-fbcabc8ed28b" name="ts95" url="http://ts95.pyn.ru">
+        <fileTransfer host="ts95.pyn.ru" port="22" rootFolder="/home/hh/codebase" accessType="SFTP" authAgent="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>
