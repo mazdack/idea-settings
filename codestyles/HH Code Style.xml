@@ -61,9 +61,6 @@
       <pair source="c" header="h" />
     </extensions>
   </Objective-C-extensions>
-  <Shell_Script>
-    <option name="SHFMT_PATH" value="/Users/lev/Library/Application Support/IntelliJIdea2019.2/Shell Script/shfmt" />
-  </Shell_Script>
   <XML>
     <option name="XML_ATTRIBUTE_WRAP" value="4" />
     <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
@@ -111,6 +108,11 @@
     <option name="FOR_BRACE_FORCE" value="3" />
     <indentOptions>
       <option name="CONTINUATION_INDENT_SIZE" value="0" />
+    </indentOptions>
+  </codeStyleSettings>
+  <codeStyleSettings language="LESS">
+    <indentOptions>
+      <option name="INDENT_SIZE" value="4" />
     </indentOptions>
   </codeStyleSettings>
   <codeStyleSettings language="XML">
