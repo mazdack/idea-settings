@@ -5,6 +5,7 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.js" />
     <mask>*config*</mask>
     <mask>*xml</mask>
     <mask>*employer*</mask>
@@ -29,11 +30,11 @@
     <mask>*Test.java</mask>
     <mask>*.cql</mask>
     <mask>*.xml</mask>
-    <mask>*.js</mask>
     <mask>*.xsl</mask>
     <mask>*.java</mask>
     <mask>*.sql</mask>
     <mask>*.py</mask>
     <mask>*.less</mask>
+    <mask>*.js</mask>
   </component>
 </application>
