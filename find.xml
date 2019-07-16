@@ -29,11 +29,11 @@
     <mask>*Test.java</mask>
     <mask>*.cql</mask>
     <mask>*.xml</mask>
-    <mask>*.xsl</mask>
     <mask>*.java</mask>
     <mask>*.sql</mask>
     <mask>*.py</mask>
     <mask>*.less</mask>
     <mask>*.js</mask>
+    <mask>*.xsl</mask>
   </component>
 </application>
