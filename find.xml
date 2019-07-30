@@ -7,14 +7,12 @@
     <mask>*xml</mask>
     <mask>*employer*</mask>
     <mask>*trans.sql</mask>
-    <mask>*java</mask>
     <mask>!*log</mask>
     <mask>*py</mask>
     <mask>*less</mask>
     <mask>*xsl</mask>
     <mask>*js</mask>
     <mask>*sofea*</mask>
-    <mask>*Resource.java</mask>
     <mask>*.html</mask>
     <mask>build.gradle</mask>
     <mask>*.m</mask>
@@ -33,5 +31,7 @@
     <mask>*.xsl</mask>
     <mask>*.jsx</mask>
     <mask>*.js</mask>
+    <mask>*java</mask>
+    <mask>*Resource.java</mask>
   </component>
 </application>
