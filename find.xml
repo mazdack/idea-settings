@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.xsl" />
     <mask>*config*</mask>
     <mask>*xml</mask>
     <mask>*employer*</mask>
@@ -29,9 +30,9 @@
     <mask>*Resource.java</mask>
     <mask>*java</mask>
     <mask>*Controller.java</mask>
-    <mask>*.xsl</mask>
     <mask>*.js</mask>
     <mask>*.java</mask>
     <mask>*.py</mask>
+    <mask>*.xsl</mask>
   </component>
 </application>
