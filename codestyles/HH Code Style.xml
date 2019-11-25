@@ -118,4 +118,9 @@
   <codeStyleSettings language="XML">
     <option name="RIGHT_MARGIN" value="120" />
   </codeStyleSettings>
+  <codeStyleSettings language="kotlin">
+    <indentOptions>
+      <option name="CONTINUATION_INDENT_SIZE" value="4" />
+    </indentOptions>
+  </codeStyleSettings>
 </code_scheme>
