@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*xml</mask>
+    <option name="FILE_MASK" value="*Test.kt" />
     <mask>*employer*</mask>
     <mask>*trans.sql</mask>
     <mask>!*log</mask>
@@ -33,5 +33,6 @@
     <mask>*.js</mask>
     <mask>*.xsl</mask>
     <mask>*.kt</mask>
+    <mask>*Test.kt</mask>
   </component>
 </application>
