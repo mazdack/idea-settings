@@ -24,7 +24,6 @@
     <mask>*.less</mask>
     <mask>*.jsx</mask>
     <mask>*Resource.java</mask>
-    <mask>*java</mask>
     <mask>*Controller.java</mask>
     <mask>*.java</mask>
     <mask>*.py</mask>
@@ -33,5 +32,6 @@
     <mask>*.xsl</mask>
     <mask>*.kt</mask>
     <mask>*Test.kt</mask>
+    <mask>*java</mask>
   </component>
 </application>
