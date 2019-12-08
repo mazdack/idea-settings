@@ -1,7 +1,0 @@
-<application>
-  <component name="IntentionManagerSettings">
-    <ignoreAction name="Declaration/Replace Diamond with Explicit Type Arguments" />
-    <ignoreAction name="XML/Insert namespace prefix" />
-    <ignoreAction name="XML/Merge Tags" />
-  </component>
-</application>
