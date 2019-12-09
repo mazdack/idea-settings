@@ -3,30 +3,31 @@
     <extensionMap>
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping pattern="README.md" type="Markdown" />
-      <mapping pattern="crontab-script" type="PLAIN_TEXT" />
-      <mapping pattern="sites-enabled/audiobridge" type="PLAIN_TEXT" />
-      <mapping pattern="upgrade-notes" type="PLAIN_TEXT" />
-      <mapping pattern="smpp-gate-docker2" type="PLAIN_TEXT" />
-      <mapping pattern="crontab" type="PLAIN_TEXT" />
-      <mapping pattern="scripts/crontab-script" type="PLAIN_TEXT" />
       <mapping pattern="Podfile" type="PLAIN_TEXT" />
-      <mapping pattern=".foreverignore" type="PLAIN_TEXT" />
       <mapping pattern="hh-logsender-kafka" type="PLAIN_TEXT" />
-      <mapping pattern="smpp-gate-docker" type="PLAIN_TEXT" />
-      <mapping pattern="audiobridge" type="PLAIN_TEXT" />
-      <mapping pattern="group_vars" type="PLAIN_TEXT" />
       <mapping pattern="compareStrings" type="PLAIN_TEXT" />
+      <mapping pattern=".foreverignore" type="PLAIN_TEXT" />
+      <mapping pattern="scripts/crontab-script" type="PLAIN_TEXT" />
+      <mapping pattern="smpp-gate-docker" type="PLAIN_TEXT" />
+      <mapping pattern="upgrade-notes" type="PLAIN_TEXT" />
       <mapping pattern="data" type="PLAIN_TEXT" />
-      <mapping ext="dev" type="PLAIN_TEXT" />
-      <mapping ext="plist" type="PLAIN_TEXT" />
-      <mapping ext="bsh" type="PLAIN_TEXT" />
+      <mapping pattern="audiobridge" type="PLAIN_TEXT" />
+      <mapping pattern="crontab-script" type="PLAIN_TEXT" />
+      <mapping pattern="smpp-gate-docker2" type="PLAIN_TEXT" />
+      <mapping pattern="sites-enabled/audiobridge" type="PLAIN_TEXT" />
+      <mapping pattern="group_vars" type="PLAIN_TEXT" />
+      <mapping pattern="crontab" type="PLAIN_TEXT" />
       <mapping ext="j2" type="PLAIN_TEXT" />
+      <mapping ext="bsh" type="PLAIN_TEXT" />
+      <mapping ext="plist" type="PLAIN_TEXT" />
       <mapping ext="jks" type="PLAIN_TEXT" />
+      <mapping ext="dev" type="PLAIN_TEXT" />
       <mapping ext="nab" type="PLAIN_TEXT" />
-      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <mapping ext="presto" type="SQL" />
+      <mapping pattern="DeleteTemplateNotification" type="TypeScript JSX" />
       <removed_mapping ext="ru" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
@@ -38,7 +39,6 @@
       <removed_mapping ext="jsx" approved="true" type="JavaScript" />
       <removed_mapping pattern="README.md" approved="true" type="PLAIN_TEXT" />
       <mapping ext="db" type="ThymeleafExpressions" />
-      <mapping pattern="DeleteTemplateNotification" type="TypeScript JSX" />
     </extensionMap>
   </component>
 </application>
