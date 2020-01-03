@@ -1,0 +1,15 @@
+<application>
+  <component name="SonarLintGlobalSettings">
+    <option name="sonarQubeServers">
+      <list>
+        <SonarQubeServer>
+          <option name="hostUrl" value="https://sonarcloud.io" />
+          <token>df9edfcfdfcedfcfdf92dfcedf93df99df9edfc9dfcedf92df9bdf9fdf99dfcbdf9ddfcedf9adf92dfccdf9ddfcedfc9df98dfcedf92df9fdfc9dfcedfcedf92df9adfcfdf92dfcfdfc9df93df9bdf92</token>
+          <option name="name" value="syncier" />
+          <organizationKey>syncier-marketplace</organizationKey>
+          <enableNotifications>true</enableNotifications>
+        </SonarQubeServer>
+      </list>
+    </option>
+  </component>
+</application>
