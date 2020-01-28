@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*xsl" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
@@ -12,8 +13,8 @@
     <mask>*Dao.java</mask>
     <mask>*less</mask>
     <mask>*js</mask>
-    <mask>*xsl</mask>
     <mask>*kts</mask>
     <mask>*kt</mask>
+    <mask>*xsl</mask>
   </component>
 </application>
