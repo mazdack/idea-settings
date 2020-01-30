@@ -21,12 +21,12 @@
       <mapping ext="j2" type="PLAIN_TEXT" />
       <mapping ext="bsh" type="PLAIN_TEXT" />
       <mapping ext="plist" type="PLAIN_TEXT" />
+      <mapping ext="jks" type="PLAIN_TEXT" />
       <mapping ext="dev" type="PLAIN_TEXT" />
       <mapping ext="nab" type="PLAIN_TEXT" />
-      <mapping ext="jks" type="PLAIN_TEXT" />
-      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <mapping ext="presto" type="SQL" />
       <mapping pattern="DeleteTemplateNotification" type="TypeScript JSX" />
       <removed_mapping ext="ru" approved="true" type="PLAIN_TEXT" />
