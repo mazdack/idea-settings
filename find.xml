@@ -12,6 +12,8 @@
     <mask>*Dao.java</mask>
     <mask>*less</mask>
     <mask>*js</mask>
+    <mask>*kts</mask>
+    <mask>*kt</mask>
     <mask>*xsl</mask>
     <mask>*kts</mask>
     <mask>*kt</mask>
