@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="customScope" />
+    <option name="defaultScopeName" />
+    <option name="SEARCH_SCOPE" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
@@ -13,5 +13,7 @@
     <mask>*less</mask>
     <mask>*js</mask>
     <mask>*xsl</mask>
+    <mask>*kts</mask>
+    <mask>*kt</mask>
   </component>
 </application>
