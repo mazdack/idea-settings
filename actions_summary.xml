@@ -37,8 +37,8 @@
         <entry key="$Undo">
           <value>
             <ActionSummary>
-              <option name="last" value="1581017357025" />
-              <option name="times" value="27" />
+              <option name="last" value="1581019282890" />
+              <option name="times" value="29" />
             </ActionSummary>
           </value>
         </entry>
@@ -85,8 +85,8 @@
         <entry key="Back">
           <value>
             <ActionSummary>
-              <option name="last" value="1581017528775" />
-              <option name="times" value="77" />
+              <option name="last" value="1581019391324" />
+              <option name="times" value="86" />
             </ActionSummary>
           </value>
         </entry>
@@ -125,8 +125,8 @@
         <entry key="EditorBackSpace">
           <value>
             <ActionSummary>
-              <option name="last" value="1581017521527" />
-              <option name="times" value="178" />
+              <option name="last" value="1581019432012" />
+              <option name="times" value="189" />
             </ActionSummary>
           </value>
         </entry>
@@ -157,8 +157,8 @@
         <entry key="EditorDeleteLine">
           <value>
             <ActionSummary>
-              <option name="last" value="1580995923299" />
-              <option name="times" value="8" />
+              <option name="last" value="1581019434264" />
+              <option name="times" value="9" />
             </ActionSummary>
           </value>
         </entry>
@@ -173,8 +173,8 @@
         <entry key="EditorDown">
           <value>
             <ActionSummary>
-              <option name="last" value="1581006013366" />
-              <option name="times" value="231" />
+              <option name="last" value="1581019402623" />
+              <option name="times" value="232" />
             </ActionSummary>
           </value>
         </entry>
@@ -333,16 +333,16 @@
         <entry key="Forward">
           <value>
             <ActionSummary>
-              <option name="last" value="1580994220082" />
-              <option name="times" value="4" />
+              <option name="last" value="1581019288716" />
+              <option name="times" value="5" />
             </ActionSummary>
           </value>
         </entry>
         <entry key="FrameSwitchAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1581017479549" />
-              <option name="times" value="16" />
+              <option name="last" value="1581019261306" />
+              <option name="times" value="17" />
             </ActionSummary>
           </value>
         </entry>
@@ -373,8 +373,8 @@
         <entry key="GotoDeclaration">
           <value>
             <ActionSummary>
-              <option name="last" value="1581017523141" />
-              <option name="times" value="100" />
+              <option name="last" value="1581019321583" />
+              <option name="times" value="105" />
             </ActionSummary>
           </value>
         </entry>
@@ -453,8 +453,8 @@
         <entry key="RecentFiles">
           <value>
             <ActionSummary>
-              <option name="last" value="1581017330397" />
-              <option name="times" value="28" />
+              <option name="last" value="1581019392826" />
+              <option name="times" value="29" />
             </ActionSummary>
           </value>
         </entry>
@@ -517,8 +517,8 @@
         <entry key="ShowIntentionActions">
           <value>
             <ActionSummary>
-              <option name="last" value="1580995453939" />
-              <option name="times" value="9" />
+              <option name="last" value="1581019307938" />
+              <option name="times" value="11" />
             </ActionSummary>
           </value>
         </entry>
@@ -557,8 +557,8 @@
         <entry key="ToggleLineBreakpoint">
           <value>
             <ActionSummary>
-              <option name="last" value="1581005617060" />
-              <option name="times" value="4" />
+              <option name="last" value="1581019394078" />
+              <option name="times" value="6" />
             </ActionSummary>
           </value>
         </entry>
@@ -581,8 +581,8 @@
         <entry key="com.intellij.codeInsight.daemon.impl.DaemonTooltipWithActionRenderer$addActionsRow$2">
           <value>
             <ActionSummary>
-              <option name="last" value="1580995546432" />
-              <option name="times" value="2" />
+              <option name="last" value="1581019439318" />
+              <option name="times" value="3" />
             </ActionSummary>
           </value>
         </entry>
@@ -725,8 +725,8 @@
         <entry key="krasa.frameswitcher.FrameSwitchAction$1">
           <value>
             <ActionSummary>
-              <option name="last" value="1581017481274" />
-              <option name="times" value="11" />
+              <option name="last" value="1581019262834" />
+              <option name="times" value="12" />
             </ActionSummary>
           </value>
         </entry>
