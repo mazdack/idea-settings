@@ -61,8 +61,8 @@
         <entry key="ActivateProjectToolWindow">
           <value>
             <ActionSummary>
-              <option name="last" value="1581006735577" />
-              <option name="times" value="18" />
+              <option name="last" value="1581073529580" />
+              <option name="times" value="19" />
             </ActionSummary>
           </value>
         </entry>
@@ -93,8 +93,8 @@
         <entry key="CloseEditor">
           <value>
             <ActionSummary>
-              <option name="last" value="1581005738187" />
-              <option name="times" value="2" />
+              <option name="last" value="1581073526245" />
+              <option name="times" value="3" />
             </ActionSummary>
           </value>
         </entry>
@@ -341,8 +341,8 @@
         <entry key="FrameSwitchAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1581019261306" />
-              <option name="times" value="17" />
+              <option name="last" value="1581073527686" />
+              <option name="times" value="18" />
             </ActionSummary>
           </value>
         </entry>
