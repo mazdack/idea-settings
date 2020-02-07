@@ -125,16 +125,16 @@
         <entry key="EditorBackSpace">
           <value>
             <ActionSummary>
-              <option name="last" value="1581019432012" />
-              <option name="times" value="189" />
+              <option name="last" value="1581067084129" />
+              <option name="times" value="198" />
             </ActionSummary>
           </value>
         </entry>
         <entry key="EditorChooseLookupItem">
           <value>
             <ActionSummary>
-              <option name="last" value="1581005559500" />
-              <option name="times" value="68" />
+              <option name="last" value="1581067081313" />
+              <option name="times" value="71" />
             </ActionSummary>
           </value>
         </entry>
@@ -157,8 +157,8 @@
         <entry key="EditorDeleteLine">
           <value>
             <ActionSummary>
-              <option name="last" value="1581019434264" />
-              <option name="times" value="9" />
+              <option name="last" value="1581067087905" />
+              <option name="times" value="13" />
             </ActionSummary>
           </value>
         </entry>
@@ -173,16 +173,16 @@
         <entry key="EditorDown">
           <value>
             <ActionSummary>
-              <option name="last" value="1581019402623" />
-              <option name="times" value="232" />
+              <option name="last" value="1581067052825" />
+              <option name="times" value="236" />
             </ActionSummary>
           </value>
         </entry>
         <entry key="EditorEnter">
           <value>
             <ActionSummary>
-              <option name="last" value="1581005623472" />
-              <option name="times" value="28" />
+              <option name="last" value="1581067077661" />
+              <option name="times" value="33" />
             </ActionSummary>
           </value>
         </entry>
@@ -285,8 +285,8 @@
         <entry key="EditorUp">
           <value>
             <ActionSummary>
-              <option name="last" value="1581006011998" />
-              <option name="times" value="36" />
+              <option name="last" value="1581067086800" />
+              <option name="times" value="40" />
             </ActionSummary>
           </value>
         </entry>
@@ -365,8 +365,8 @@
         <entry key="GotoAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1581005739394" />
-              <option name="times" value="10" />
+              <option name="last" value="1581067038386" />
+              <option name="times" value="11" />
             </ActionSummary>
           </value>
         </entry>
@@ -437,8 +437,8 @@
         <entry key="NewScratchFile">
           <value>
             <ActionSummary>
-              <option name="last" value="1580995085972" />
-              <option name="times" value="2" />
+              <option name="last" value="1581067039672" />
+              <option name="times" value="3" />
             </ActionSummary>
           </value>
         </entry>
@@ -653,8 +653,8 @@
         <entry key="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1581007404161" />
-              <option name="times" value="18" />
+              <option name="last" value="1581067039070" />
+              <option name="times" value="19" />
             </ActionSummary>
           </value>
         </entry>
