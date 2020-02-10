@@ -61,8 +61,8 @@
         <entry key="ActivateProjectToolWindow">
           <value>
             <ActionSummary>
-              <option name="last" value="1581073529580" />
-              <option name="times" value="19" />
+              <option name="last" value="1581326186015" />
+              <option name="times" value="23" />
             </ActionSummary>
           </value>
         </entry>
@@ -413,8 +413,16 @@
         <entry key="HideAllWindows">
           <value>
             <ActionSummary>
-              <option name="last" value="1581006341644" />
-              <option name="times" value="3" />
+              <option name="last" value="1581326184721" />
+              <option name="times" value="4" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="ImportModule">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581326166626" />
+              <option name="times" value="1" />
             </ActionSummary>
           </value>
         </entry>
@@ -431,6 +439,14 @@
             <ActionSummary>
               <option name="last" value="1581004448758" />
               <option name="times" value="7" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="List-selectPreviousRow">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581326178065" />
+              <option name="times" value="1" />
             </ActionSummary>
           </value>
         </entry>
@@ -549,8 +565,8 @@
         <entry key="ShowProjectStructureSettings">
           <value>
             <ActionSummary>
-              <option name="last" value="1581001603396" />
-              <option name="times" value="3" />
+              <option name="last" value="1581326203189" />
+              <option name="times" value="4" />
             </ActionSummary>
           </value>
         </entry>
