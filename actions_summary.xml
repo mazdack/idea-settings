@@ -365,8 +365,8 @@
         <entry key="FrameSwitchAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1581330571083" />
-              <option name="times" value="31" />
+              <option name="last" value="1581330968719" />
+              <option name="times" value="32" />
             </ActionSummary>
           </value>
         </entry>
@@ -389,8 +389,8 @@
         <entry key="GotoAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1581328948308" />
-              <option name="times" value="21" />
+              <option name="last" value="1581330953383" />
+              <option name="times" value="22" />
             </ActionSummary>
           </value>
         </entry>
@@ -421,8 +421,8 @@
         <entry key="HideAllWindows">
           <value>
             <ActionSummary>
-              <option name="last" value="1581329074685" />
-              <option name="times" value="9" />
+              <option name="last" value="1581330967606" />
+              <option name="times" value="10" />
             </ActionSummary>
           </value>
         </entry>
@@ -445,8 +445,8 @@
         <entry key="KotlinConsoleREPL">
           <value>
             <ActionSummary>
-              <option name="last" value="1581004448758" />
-              <option name="times" value="7" />
+              <option name="last" value="1581330976654" />
+              <option name="times" value="9" />
             </ActionSummary>
           </value>
         </entry>
@@ -717,8 +717,8 @@
         <entry key="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1581328949532" />
-              <option name="times" value="33" />
+              <option name="last" value="1581330957997" />
+              <option name="times" value="34" />
             </ActionSummary>
           </value>
         </entry>
@@ -733,8 +733,8 @@
         <entry key="com.intellij.openapi.wm.impl.ProjectWindowAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1581073699214" />
-              <option name="times" value="4" />
+              <option name="last" value="1581330965513" />
+              <option name="times" value="5" />
             </ActionSummary>
           </value>
         </entry>
@@ -773,16 +773,16 @@
         <entry key="com.intellij.ui.ScrollingUtil$6">
           <value>
             <ActionSummary>
-              <option name="last" value="1581328387754" />
-              <option name="times" value="112" />
+              <option name="last" value="1581330957093" />
+              <option name="times" value="115" />
             </ActionSummary>
           </value>
         </entry>
         <entry key="com.intellij.ui.ScrollingUtil$7">
           <value>
             <ActionSummary>
-              <option name="last" value="1581077108153" />
-              <option name="times" value="43" />
+              <option name="last" value="1581330957333" />
+              <option name="times" value="44" />
             </ActionSummary>
           </value>
         </entry>
@@ -821,8 +821,8 @@
         <entry key="krasa.frameswitcher.FrameSwitchAction$1">
           <value>
             <ActionSummary>
-              <option name="last" value="1581330572574" />
-              <option name="times" value="22" />
+              <option name="last" value="1581330969547" />
+              <option name="times" value="23" />
             </ActionSummary>
           </value>
         </entry>
