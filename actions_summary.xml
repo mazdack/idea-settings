@@ -357,8 +357,8 @@
         <entry key="FrameSwitchAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1581073795826" />
-              <option name="times" value="19" />
+              <option name="last" value="1581324226313" />
+              <option name="times" value="20" />
             </ActionSummary>
           </value>
         </entry>
@@ -581,8 +581,8 @@
         <entry key="ToggleLineBreakpoint">
           <value>
             <ActionSummary>
-              <option name="last" value="1581019394078" />
-              <option name="times" value="6" />
+              <option name="last" value="1581324236212" />
+              <option name="times" value="7" />
             </ActionSummary>
           </value>
         </entry>
@@ -706,6 +706,14 @@
             </ActionSummary>
           </value>
         </entry>
+        <entry key="com.intellij.openapi.wm.impl.ToolWindowHeader$HideAction">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581324232858" />
+              <option name="times" value="2" />
+            </ActionSummary>
+          </value>
+        </entry>
         <entry key="com.intellij.ui.ScrollingUtil$12">
           <value>
             <ActionSummary>
@@ -741,8 +749,8 @@
         <entry key="com.intellij.xdebugger.impl.breakpoints.RemoveBreakpointGutterIconAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1580995418397" />
-              <option name="times" value="4" />
+              <option name="last" value="1581324237426" />
+              <option name="times" value="5" />
             </ActionSummary>
           </value>
         </entry>
