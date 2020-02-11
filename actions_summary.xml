@@ -269,8 +269,8 @@
         <entry key="EditorDeleteLine">
           <value>
             <ActionSummary>
-              <option name="last" value="1581413297914" />
-              <option name="times" value="81" />
+              <option name="last" value="1581424584589" />
+              <option name="times" value="82" />
             </ActionSummary>
           </value>
         </entry>
@@ -469,8 +469,8 @@
         <entry key="Find">
           <value>
             <ActionSummary>
-              <option name="last" value="1581346853716" />
-              <option name="times" value="25" />
+              <option name="last" value="1581425125171" />
+              <option name="times" value="26" />
             </ActionSummary>
           </value>
         </entry>
@@ -501,8 +501,8 @@
         <entry key="FrameSwitchAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1581423309134" />
-              <option name="times" value="96" />
+              <option name="last" value="1581424388617" />
+              <option name="times" value="97" />
             </ActionSummary>
           </value>
         </entry>
@@ -549,8 +549,8 @@
         <entry key="GotoDeclaration">
           <value>
             <ActionSummary>
-              <option name="last" value="1581419225649" />
-              <option name="times" value="355" />
+              <option name="last" value="1581424529369" />
+              <option name="times" value="356" />
             </ActionSummary>
           </value>
         </entry>
@@ -733,8 +733,8 @@
         <entry key="RecentFiles">
           <value>
             <ActionSummary>
-              <option name="last" value="1581413206400" />
-              <option name="times" value="326" />
+              <option name="last" value="1581424391318" />
+              <option name="times" value="327" />
             </ActionSummary>
           </value>
         </entry>
@@ -797,8 +797,8 @@
         <entry key="SaveAll">
           <value>
             <ActionSummary>
-              <option name="last" value="1581419228457" />
-              <option name="times" value="87" />
+              <option name="last" value="1581424587076" />
+              <option name="times" value="92" />
             </ActionSummary>
           </value>
         </entry>
@@ -933,8 +933,8 @@
         <entry key="com.intellij.find.editorHeaderActions.NextOccurrenceAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1581339651077" />
-              <option name="times" value="49" />
+              <option name="last" value="1581425132066" />
+              <option name="times" value="57" />
             </ActionSummary>
           </value>
         </entry>
@@ -1029,8 +1029,8 @@
         <entry key="com.intellij.openapi.wm.impl.ToolWindowHeader$HideAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1581328741786" />
-              <option name="times" value="4" />
+              <option name="last" value="1581423882547" />
+              <option name="times" value="6" />
             </ActionSummary>
           </value>
         </entry>
@@ -1141,8 +1141,8 @@
         <entry key="krasa.frameswitcher.FrameSwitchAction$1">
           <value>
             <ActionSummary>
-              <option name="last" value="1581423310837" />
-              <option name="times" value="76" />
+              <option name="last" value="1581424389739" />
+              <option name="times" value="77" />
             </ActionSummary>
           </value>
         </entry>
