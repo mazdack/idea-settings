@@ -253,8 +253,8 @@
         <entry key="EditorCopy">
           <value>
             <ActionSummary>
-              <option name="last" value="1581509060533" />
-              <option name="times" value="206" />
+              <option name="last" value="1581585533987" />
+              <option name="times" value="207" />
             </ActionSummary>
           </value>
         </entry>
@@ -381,8 +381,8 @@
         <entry key="EditorPaste">
           <value>
             <ActionSummary>
-              <option name="last" value="1581439142049" />
-              <option name="times" value="248" />
+              <option name="last" value="1581585567607" />
+              <option name="times" value="249" />
             </ActionSummary>
           </value>
         </entry>
@@ -477,8 +477,8 @@
         <entry key="FindInPath">
           <value>
             <ActionSummary>
-              <option name="last" value="1581507069740" />
-              <option name="times" value="39" />
+              <option name="last" value="1581585566922" />
+              <option name="times" value="41" />
             </ActionSummary>
           </value>
         </entry>
@@ -1005,8 +1005,8 @@
         <entry key="com.intellij.ide.ReopenProjectAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1581409247267" />
-              <option name="times" value="2" />
+              <option name="last" value="1581585507640" />
+              <option name="times" value="3" />
             </ActionSummary>
           </value>
         </entry>
@@ -1109,16 +1109,16 @@
         <entry key="com.intellij.ui.ScrollingUtil$12">
           <value>
             <ActionSummary>
-              <option name="last" value="1581503395438" />
-              <option name="times" value="79" />
+              <option name="last" value="1581585570459" />
+              <option name="times" value="82" />
             </ActionSummary>
           </value>
         </entry>
         <entry key="com.intellij.ui.ScrollingUtil$13">
           <value>
             <ActionSummary>
-              <option name="last" value="1581503394100" />
-              <option name="times" value="44" />
+              <option name="last" value="1581585571162" />
+              <option name="times" value="46" />
             </ActionSummary>
           </value>
         </entry>
