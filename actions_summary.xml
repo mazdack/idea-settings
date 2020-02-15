@@ -66,6 +66,14 @@
             </ActionSummary>
           </value>
         </entry>
+        <entry key="ActivateMavenToolWindow">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581756996832" />
+              <option name="times" value="1" />
+            </ActionSummary>
+          </value>
+        </entry>
         <entry key="ActivateProjectToolWindow">
           <value>
             <ActionSummary>
@@ -541,8 +549,8 @@
         <entry key="GotoAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1581688497541" />
-              <option name="times" value="38" />
+              <option name="last" value="1581756994195" />
+              <option name="times" value="39" />
             </ActionSummary>
           </value>
         </entry>
@@ -650,6 +658,14 @@
             </ActionSummary>
           </value>
         </entry>
+        <entry key="Maven.Reimport">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581756999955" />
+              <option name="times" value="4" />
+            </ActionSummary>
+          </value>
+        </entry>
         <entry key="MoveLineDown">
           <value>
             <ActionSummary>
@@ -741,8 +757,8 @@
         <entry key="RecentFiles">
           <value>
             <ActionSummary>
-              <option name="last" value="1581756231726" />
-              <option name="times" value="382" />
+              <option name="last" value="1581756990256" />
+              <option name="times" value="383" />
             </ActionSummary>
           </value>
         </entry>
@@ -1037,16 +1053,16 @@
         <entry key="com.intellij.openapi.actionSystem.DefaultActionGroup">
           <value>
             <ActionSummary>
-              <option name="last" value="1581439200650" />
-              <option name="times" value="3" />
+              <option name="last" value="1581757002619" />
+              <option name="times" value="4" />
             </ActionSummary>
           </value>
         </entry>
         <entry key="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1581755963886" />
-              <option name="times" value="87" />
+              <option name="last" value="1581756996761" />
+              <option name="times" value="88" />
             </ActionSummary>
           </value>
         </entry>
