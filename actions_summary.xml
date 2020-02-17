@@ -245,8 +245,8 @@
         <entry key="EditorBackSpace">
           <value>
             <ActionSummary>
-              <option name="last" value="1581942738487" />
-              <option name="times" value="1472" />
+              <option name="last" value="1581947433836" />
+              <option name="times" value="1478" />
             </ActionSummary>
           </value>
         </entry>
@@ -557,8 +557,8 @@
         <entry key="GotoAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1581944052477" />
-              <option name="times" value="47" />
+              <option name="last" value="1581947430934" />
+              <option name="times" value="48" />
             </ActionSummary>
           </value>
         </entry>
@@ -986,6 +986,14 @@
             </ActionSummary>
           </value>
         </entry>
+        <entry key="WelcomeScreen.Plugins">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581947436554" />
+              <option name="times" value="1" />
+            </ActionSummary>
+          </value>
+        </entry>
         <entry key="XDebugger.MuteBreakpoints">
           <value>
             <ActionSummary>
@@ -1117,8 +1125,8 @@
         <entry key="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1581943916611" />
-              <option name="times" value="107" />
+              <option name="last" value="1581947436522" />
+              <option name="times" value="108" />
             </ActionSummary>
           </value>
         </entry>
@@ -1221,8 +1229,8 @@
         <entry key="com.intellij.ui.ScrollingUtil$6">
           <value>
             <ActionSummary>
-              <option name="last" value="1581933846192" />
-              <option name="times" value="751" />
+              <option name="last" value="1581947436209" />
+              <option name="times" value="752" />
             </ActionSummary>
           </value>
         </entry>
