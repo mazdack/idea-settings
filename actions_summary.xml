@@ -557,8 +557,8 @@
         <entry key="GotoAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1581943294017" />
-              <option name="times" value="45" />
+              <option name="last" value="1581943914323" />
+              <option name="times" value="46" />
             </ActionSummary>
           </value>
         </entry>
@@ -623,6 +623,14 @@
             <ActionSummary>
               <option name="last" value="1581881334976" />
               <option name="times" value="13" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="InvalidateCaches">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581943916630" />
+              <option name="times" value="1" />
             </ActionSummary>
           </value>
         </entry>
@@ -1109,8 +1117,8 @@
         <entry key="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1581943295388" />
-              <option name="times" value="106" />
+              <option name="last" value="1581943916611" />
+              <option name="times" value="107" />
             </ActionSummary>
           </value>
         </entry>
