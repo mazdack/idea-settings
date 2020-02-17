@@ -77,8 +77,8 @@
         <entry key="ActivateProjectToolWindow">
           <value>
             <ActionSummary>
-              <option name="last" value="1581943717545" />
-              <option name="times" value="85" />
+              <option name="last" value="1581944458957" />
+              <option name="times" value="86" />
             </ActionSummary>
           </value>
         </entry>
@@ -117,16 +117,16 @@
         <entry key="Annotate">
           <value>
             <ActionSummary>
-              <option name="last" value="1581885490943" />
-              <option name="times" value="23" />
+              <option name="last" value="1581944426823" />
+              <option name="times" value="25" />
             </ActionSummary>
           </value>
         </entry>
         <entry key="Back">
           <value>
             <ActionSummary>
-              <option name="last" value="1581942826654" />
-              <option name="times" value="603" />
+              <option name="last" value="1581944429003" />
+              <option name="times" value="606" />
             </ActionSummary>
           </value>
         </entry>
@@ -485,8 +485,8 @@
         <entry key="ExternalSystem.RefreshAllProjects">
           <value>
             <ActionSummary>
-              <option name="last" value="1581943625695" />
-              <option name="times" value="12" />
+              <option name="last" value="1581944207976" />
+              <option name="times" value="14" />
             </ActionSummary>
           </value>
         </entry>
@@ -573,8 +573,8 @@
         <entry key="GotoDeclaration">
           <value>
             <ActionSummary>
-              <option name="last" value="1581943068835" />
-              <option name="times" value="503" />
+              <option name="last" value="1581944422178" />
+              <option name="times" value="504" />
             </ActionSummary>
           </value>
         </entry>
@@ -597,8 +597,8 @@
         <entry key="HideAllWindows">
           <value>
             <ActionSummary>
-              <option name="last" value="1581757067533" />
-              <option name="times" value="21" />
+              <option name="last" value="1581944213208" />
+              <option name="times" value="22" />
             </ActionSummary>
           </value>
         </entry>
@@ -805,8 +805,8 @@
         <entry key="RecentFiles">
           <value>
             <ActionSummary>
-              <option name="last" value="1581943215197" />
-              <option name="times" value="389" />
+              <option name="last" value="1581944413966" />
+              <option name="times" value="390" />
             </ActionSummary>
           </value>
         </entry>
@@ -949,8 +949,8 @@
         <entry key="ToggleLineBreakpoint">
           <value>
             <ActionSummary>
-              <option name="last" value="1581757191126" />
-              <option name="times" value="32" />
+              <option name="last" value="1581944413335" />
+              <option name="times" value="34" />
             </ActionSummary>
           </value>
         </entry>
