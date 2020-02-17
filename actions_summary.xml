@@ -77,8 +77,8 @@
         <entry key="ActivateProjectToolWindow">
           <value>
             <ActionSummary>
-              <option name="last" value="1581756010224" />
-              <option name="times" value="84" />
+              <option name="last" value="1581943717545" />
+              <option name="times" value="85" />
             </ActionSummary>
           </value>
         </entry>
@@ -477,8 +477,8 @@
         <entry key="ExternalSystem.DetachProject">
           <value>
             <ActionSummary>
-              <option name="last" value="1581943434236" />
-              <option name="times" value="2" />
+              <option name="last" value="1581943722610" />
+              <option name="times" value="4" />
             </ActionSummary>
           </value>
         </entry>
@@ -1069,8 +1069,8 @@
         <entry key="com.intellij.ide.ReopenProjectAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1581685970848" />
-              <option name="times" value="4" />
+              <option name="last" value="1581943710629" />
+              <option name="times" value="5" />
             </ActionSummary>
           </value>
         </entry>
