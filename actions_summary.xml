@@ -77,8 +77,8 @@
         <entry key="ActivateProjectToolWindow">
           <value>
             <ActionSummary>
-              <option name="last" value="1581944458957" />
-              <option name="times" value="86" />
+              <option name="last" value="1581954546638" />
+              <option name="times" value="87" />
             </ActionSummary>
           </value>
         </entry>
@@ -109,8 +109,8 @@
         <entry key="ActivateVersionControlToolWindow">
           <value>
             <ActionSummary>
-              <option name="last" value="1581328745790" />
-              <option name="times" value="3" />
+              <option name="last" value="1581954707612" />
+              <option name="times" value="4" />
             </ActionSummary>
           </value>
         </entry>
@@ -325,8 +325,8 @@
         <entry key="EditorEnter">
           <value>
             <ActionSummary>
-              <option name="last" value="1581942776081" />
-              <option name="times" value="434" />
+              <option name="last" value="1581955094864" />
+              <option name="times" value="437" />
             </ActionSummary>
           </value>
         </entry>
@@ -533,8 +533,8 @@
         <entry key="FrameSwitchAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1581952925516" />
-              <option name="times" value="142" />
+              <option name="last" value="1581954543953" />
+              <option name="times" value="143" />
             </ActionSummary>
           </value>
         </entry>
@@ -565,8 +565,8 @@
         <entry key="GotoAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1581948722898" />
-              <option name="times" value="53" />
+              <option name="last" value="1581954706720" />
+              <option name="times" value="54" />
             </ActionSummary>
           </value>
         </entry>
@@ -581,8 +581,8 @@
         <entry key="GotoDeclaration">
           <value>
             <ActionSummary>
-              <option name="last" value="1581944422178" />
-              <option name="times" value="504" />
+              <option name="last" value="1581955107717" />
+              <option name="times" value="505" />
             </ActionSummary>
           </value>
         </entry>
@@ -925,8 +925,8 @@
         <entry key="ShowProjectStructureSettings">
           <value>
             <ActionSummary>
-              <option name="last" value="1581943598019" />
-              <option name="times" value="18" />
+              <option name="last" value="1581954557848" />
+              <option name="times" value="19" />
             </ActionSummary>
           </value>
         </entry>
@@ -1133,8 +1133,8 @@
         <entry key="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1581948724412" />
-              <option name="times" value="113" />
+              <option name="last" value="1581954707596" />
+              <option name="times" value="114" />
             </ActionSummary>
           </value>
         </entry>
@@ -1181,8 +1181,8 @@
         <entry key="com.intellij.openapi.wm.impl.ToolWindowHeader$HideAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1581930731583" />
-              <option name="times" value="16" />
+              <option name="last" value="1581954818686" />
+              <option name="times" value="18" />
             </ActionSummary>
           </value>
         </entry>
@@ -1317,8 +1317,8 @@
         <entry key="krasa.frameswitcher.FrameSwitchAction$1">
           <value>
             <ActionSummary>
-              <option name="last" value="1581948669271" />
-              <option name="times" value="110" />
+              <option name="last" value="1581954544867" />
+              <option name="times" value="111" />
             </ActionSummary>
           </value>
         </entry>
