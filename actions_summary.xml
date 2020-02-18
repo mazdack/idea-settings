@@ -173,16 +173,16 @@
         <entry key="CloseProject">
           <value>
             <ActionSummary>
-              <option name="last" value="1581073701480" />
-              <option name="times" value="3" />
+              <option name="last" value="1582015433188" />
+              <option name="times" value="6" />
             </ActionSummary>
           </value>
         </entry>
         <entry key="CloseProjectsAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1581930481466" />
-              <option name="times" value="5" />
+              <option name="last" value="1582015414530" />
+              <option name="times" value="7" />
             </ActionSummary>
           </value>
         </entry>
@@ -253,8 +253,8 @@
         <entry key="EditorBackSpace">
           <value>
             <ActionSummary>
-              <option name="last" value="1581970065665" />
-              <option name="times" value="1561" />
+              <option name="last" value="1582015413084" />
+              <option name="times" value="1563" />
             </ActionSummary>
           </value>
         </entry>
@@ -541,8 +541,8 @@
         <entry key="FrameSwitchAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1581969994335" />
-              <option name="times" value="155" />
+              <option name="last" value="1582015516214" />
+              <option name="times" value="162" />
             </ActionSummary>
           </value>
         </entry>
@@ -573,8 +573,8 @@
         <entry key="GotoAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1581954706720" />
-              <option name="times" value="54" />
+              <option name="last" value="1582015431703" />
+              <option name="times" value="59" />
             </ActionSummary>
           </value>
         </entry>
@@ -1141,8 +1141,8 @@
         <entry key="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1581970043579" />
-              <option name="times" value="128" />
+              <option name="last" value="1582015433161" />
+              <option name="times" value="133" />
             </ActionSummary>
           </value>
         </entry>
@@ -1245,8 +1245,8 @@
         <entry key="com.intellij.ui.ScrollingUtil$6">
           <value>
             <ActionSummary>
-              <option name="last" value="1581970009297" />
-              <option name="times" value="793" />
+              <option name="last" value="1582015414261" />
+              <option name="times" value="795" />
             </ActionSummary>
           </value>
         </entry>
@@ -1325,16 +1325,16 @@
         <entry key="krasa.frameswitcher.FrameSwitchAction$1">
           <value>
             <ActionSummary>
-              <option name="last" value="1581969863251" />
-              <option name="times" value="117" />
+              <option name="last" value="1582015517131" />
+              <option name="times" value="122" />
             </ActionSummary>
           </value>
         </entry>
         <entry key="krasa.frameswitcher.FrameSwitchAction$ReopenRecentWrapper">
           <value>
             <ActionSummary>
-              <option name="last" value="1581968490295" />
-              <option name="times" value="17" />
+              <option name="last" value="1582015436659" />
+              <option name="times" value="18" />
             </ActionSummary>
           </value>
         </entry>
