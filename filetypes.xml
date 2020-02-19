@@ -19,6 +19,7 @@
       <mapping pattern="crontab" type="PLAIN_TEXT" />
       <mapping pattern="audiobridge" type="PLAIN_TEXT" />
       <mapping pattern="smpp-gate-docker2" type="PLAIN_TEXT" />
+      <mapping ext="factories" type="PLAIN_TEXT" />
       <mapping ext="j2" type="PLAIN_TEXT" />
       <mapping ext="bsh" type="PLAIN_TEXT" />
       <mapping ext="plist" type="PLAIN_TEXT" />
