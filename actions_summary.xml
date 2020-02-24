@@ -445,8 +445,8 @@
         <entry key="EditorPaste">
           <value>
             <ActionSummary>
-              <option name="last" value="1582533664853" />
-              <option name="times" value="623" />
+              <option name="last" value="1582536446740" />
+              <option name="times" value="624" />
             </ActionSummary>
           </value>
         </entry>
@@ -573,8 +573,8 @@
         <entry key="FindInPath">
           <value>
             <ActionSummary>
-              <option name="last" value="1582293205663" />
-              <option name="times" value="102" />
+              <option name="last" value="1582536446160" />
+              <option name="times" value="103" />
             </ActionSummary>
           </value>
         </entry>
@@ -597,8 +597,8 @@
         <entry key="FrameSwitchAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1582533150843" />
-              <option name="times" value="341" />
+              <option name="last" value="1582537483912" />
+              <option name="times" value="343" />
             </ActionSummary>
           </value>
         </entry>
@@ -925,8 +925,8 @@
         <entry key="RecentFiles">
           <value>
             <ActionSummary>
-              <option name="last" value="1582533647637" />
-              <option name="times" value="813" />
+              <option name="last" value="1582537487322" />
+              <option name="times" value="814" />
             </ActionSummary>
           </value>
         </entry>
@@ -1341,8 +1341,8 @@
         <entry key="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1582533347301" />
-              <option name="times" value="207" />
+              <option name="last" value="1582536455492" />
+              <option name="times" value="208" />
             </ActionSummary>
           </value>
         </entry>
@@ -1453,16 +1453,16 @@
         <entry key="com.intellij.ui.ScrollingUtil$12">
           <value>
             <ActionSummary>
-              <option name="last" value="1582293211031" />
-              <option name="times" value="331" />
+              <option name="last" value="1582536452703" />
+              <option name="times" value="343" />
             </ActionSummary>
           </value>
         </entry>
         <entry key="com.intellij.ui.ScrollingUtil$13">
           <value>
             <ActionSummary>
-              <option name="last" value="1582293211950" />
-              <option name="times" value="135" />
+              <option name="last" value="1582536452928" />
+              <option name="times" value="137" />
             </ActionSummary>
           </value>
         </entry>
@@ -1573,8 +1573,8 @@
         <entry key="krasa.frameswitcher.FrameSwitchAction$1">
           <value>
             <ActionSummary>
-              <option name="last" value="1582533155044" />
-              <option name="times" value="275" />
+              <option name="last" value="1582536445172" />
+              <option name="times" value="276" />
             </ActionSummary>
           </value>
         </entry>
