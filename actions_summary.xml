@@ -365,8 +365,8 @@
         <entry key="EditorEnter">
           <value>
             <ActionSummary>
-              <option name="last" value="1582573525624" />
-              <option name="times" value="862" />
+              <option name="last" value="1582574387392" />
+              <option name="times" value="867" />
             </ActionSummary>
           </value>
         </entry>
@@ -493,8 +493,8 @@
         <entry key="EditorStartNewLine">
           <value>
             <ActionSummary>
-              <option name="last" value="1582027837390" />
-              <option name="times" value="4" />
+              <option name="last" value="1582574337982" />
+              <option name="times" value="5" />
             </ActionSummary>
           </value>
         </entry>
@@ -1037,8 +1037,8 @@
         <entry key="SaveAll">
           <value>
             <ActionSummary>
-              <option name="last" value="1582561761633" />
-              <option name="times" value="393" />
+              <option name="last" value="1582574895256" />
+              <option name="times" value="394" />
             </ActionSummary>
           </value>
         </entry>
@@ -1397,8 +1397,8 @@
         <entry key="com.intellij.openapi.vcs.ex.LocalLineStatusTracker$LocalLineStatusMarkerRenderer$RollbackLineStatusRangeAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1582561413579" />
-              <option name="times" value="46" />
+              <option name="last" value="1582574894084" />
+              <option name="times" value="48" />
             </ActionSummary>
           </value>
         </entry>
