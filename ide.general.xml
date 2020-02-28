@@ -15,5 +15,6 @@
     <entry key="BSP.system.in.process" value="true" />
     <entry key="editor.distraction.free.mode" value="true" />
     <entry key="ide.mac.allowDarkWindowDecorations" value="true" />
+    <entry key="analyze.exceptions.on.the.fly" value="true" />
   </component>
 </application>
