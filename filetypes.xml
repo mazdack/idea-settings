@@ -14,6 +14,7 @@
       <mapping pattern=".version" type="PLAIN_TEXT" />
       <mapping pattern="compareStrings" type="PLAIN_TEXT" />
       <mapping pattern="upgrade-notes" type="PLAIN_TEXT" />
+      <mapping pattern="META-INF/spring-factories" type="PLAIN_TEXT" />
       <mapping pattern="smpp-gate-docker" type="PLAIN_TEXT" />
       <mapping pattern="Podfile" type="PLAIN_TEXT" />
       <mapping pattern="crontab" type="PLAIN_TEXT" />
