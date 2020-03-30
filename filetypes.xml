@@ -17,6 +17,8 @@
       <mapping pattern="META-INF/spring-factories" type="PLAIN_TEXT" />
       <mapping pattern="smpp-gate-docker" type="PLAIN_TEXT" />
       <mapping pattern="Podfile" type="PLAIN_TEXT" />
+      <mapping pattern=".github/CODEOWNERS" type="PLAIN_TEXT" />
+      <mapping pattern="CODEOWNERS" type="PLAIN_TEXT" />
       <mapping pattern="crontab" type="PLAIN_TEXT" />
       <mapping pattern="audiobridge" type="PLAIN_TEXT" />
       <mapping pattern="smpp-gate-docker2" type="PLAIN_TEXT" />
