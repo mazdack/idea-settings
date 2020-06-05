@@ -16,5 +16,6 @@
     <entry key="editor.distraction.free.mode" value="true" />
     <entry key="ide.mac.allowDarkWindowDecorations" value="true" />
     <entry key="analyze.exceptions.on.the.fly" value="true" />
+    <entry key="go.run.processes.with.pty" value="false" />
   </component>
 </application>
