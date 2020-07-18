@@ -12,6 +12,7 @@
       </list>
     </option>
     <rules>
+      <Rule active="false" key="java:S1854" />
       <Rule active="false" key="kotlin:S125" />
     </rules>
   </component>
