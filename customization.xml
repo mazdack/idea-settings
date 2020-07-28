@@ -6,11 +6,11 @@
       <path value="Default" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="CompileDirty" is_action="true" action_type="1" position="1">
+    <group value="CloseProjectsAction" is_action="true" action_type="1" position="0">
       <path value="root" />
       <path value="Touch Bar" />
-      <path value="Default" />
       <option name="myInitialPosition" value="-1" />
     </group>
+    <action id="CloseProjectsAction" icon="$USER_HOME$/Downloads/close-window-512.png" />
   </component>
 </application>
