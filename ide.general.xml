@@ -17,7 +17,7 @@
     <entry key="analyze.exceptions.on.the.fly" value="true" />
     <entry key="go.run.processes.with.pty" value="false" />
     <entry key="ide.windowSystem.autoShowProcessPopup" value="true" />
-    <entry key="editor.distraction.free.mode" value="true" />
     <entry key="debugger.watches.in.variables" value="false" />
+    <entry key="editor.distraction.free.mode" value="true" />
   </component>
 </application>
