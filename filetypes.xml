@@ -29,6 +29,7 @@
       <mapping ext="dev" type="PLAIN_TEXT" />
       <mapping ext="nab" type="PLAIN_TEXT" />
       <mapping ext="jks" type="PLAIN_TEXT" />
+      <mapping ext="fwf" type="PLAIN_TEXT" />
       <mapping ext="j2" type="PLAIN_TEXT" />
       <mapping pattern="HH-115660" type="SQL" />
       <mapping ext="presto" type="SQL" />
