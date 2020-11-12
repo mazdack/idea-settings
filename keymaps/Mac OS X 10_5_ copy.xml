@@ -20,6 +20,10 @@
   <action id="Console.TableResult.CompareCells" />
   <action id="DatabaseView.PropertiesAction" />
   <action id="Diff.ShowSettingsPopup" />
+  <action id="EvaluateExpression">
+    <keyboard-shortcut first-keystroke="alt f8" />
+    <keyboard-shortcut first-keystroke="alt f8" second-keystroke="meta u" />
+  </action>
   <action id="FileChooser.TogglePathShowing" />
   <action id="FileStructurePopup">
     <keyboard-shortcut first-keystroke="meta f12" />
