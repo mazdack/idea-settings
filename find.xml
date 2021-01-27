@@ -5,6 +5,7 @@
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*kt" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
@@ -16,12 +17,12 @@
     <mask>*js</mask>
     <mask>*kts</mask>
     <mask>*kts</mask>
-    <mask>*kt</mask>
     <mask>*xsl</mask>
     <mask>*yml</mask>
-    <mask>*kt</mask>
     <mask>yaml</mask>
     <mask>*sql</mask>
     <mask>*xml</mask>
+    <mask>*kt</mask>
+    <mask>*kt</mask>
   </component>
 </application>
