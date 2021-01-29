@@ -7,9 +7,9 @@
       <mapping pattern="README.md" type="Markdown" />
       <mapping pattern="crontab-script" type="PLAIN_TEXT" />
       <mapping pattern="group_vars" type="PLAIN_TEXT" />
-      <mapping pattern=".github/CODEOWNERS" type="PLAIN_TEXT" />
-      <mapping pattern="upgrade-notes" type="PLAIN_TEXT" />
       <mapping pattern="smpp-gate-docker" type="PLAIN_TEXT" />
+      <mapping pattern="upgrade-notes" type="PLAIN_TEXT" />
+      <mapping pattern=".github/CODEOWNERS" type="PLAIN_TEXT" />
       <mapping pattern=".version" type="PLAIN_TEXT" />
       <mapping pattern="hh-logsender-kafka" type="PLAIN_TEXT" />
       <mapping pattern="data" type="PLAIN_TEXT" />
